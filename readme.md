@@ -16,6 +16,7 @@ The project is organised in python package following this architecture:
 
 __Feel free to have a look at the guided tour__, it presents all the possibilities offered by the toolbox.
 
+_Side note: sorry for the not pep8 style, I was not yet a real pythonic guy at this time :)_
 
 Overview
 -------------

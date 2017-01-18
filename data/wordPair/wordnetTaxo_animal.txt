@@ -1,0 +1,4356 @@
+animal	>	acrodont
+animal	>	adult
+animal	>	biped
+animal	>	captive
+animal	>	chordate
+chordate	>	cephalochordate
+cephalochordate	>	lancelet
+chordate	>	tunicate
+tunicate	>	appendicularia
+tunicate	>	ascidian
+ascidian	>	sea squirt
+tunicate	>	doliolum
+tunicate	>	larvacean
+tunicate	>	salp
+chordate	>	vertebrate
+vertebrate	>	amniota
+vertebrate	>	amniote
+vertebrate	>	amphibian
+amphibian	>	caecilian
+amphibian	>	frog
+frog	>	barking frog
+frog	>	crapaud
+frog	>	eastern narrow mouthed toad
+frog	>	fire bellied toad
+frog	>	leptodactylid frog
+frog	>	liopelma hamiltoni
+frog	>	midwife toad
+frog	>	obstetrical toad
+frog	>	robber frog
+frog	>	sheep frog
+frog	>	south american poison toad
+frog	>	spadefoot
+spadefoot	>	plains spadefoot
+spadefoot	>	southern spadefoot
+spadefoot	>	western spadefoot
+frog	>	tailed frog
+frog	>	tongueless frog
+tongueless frog	>	african clawed frog
+tongueless frog	>	surinam toad
+frog	>	tree frog
+frog	>	tree toad
+tree toad	>	canyon treefrog
+tree toad	>	chameleon tree frog
+tree toad	>	chorus frog
+tree toad	>	cricket frog
+cricket frog	>	eastern cricket frog
+cricket frog	>	northern cricket frog
+tree toad	>	lowland burrowing treefrog
+tree toad	>	pacific tree toad
+tree toad	>	spring peeper
+frog	>	true frog
+true frog	>	bullfrog
+true frog	>	cascades frog
+true frog	>	goliath frog
+true frog	>	grass frog
+true frog	>	green frog
+true frog	>	leopard frog
+true frog	>	pickerel frog
+true frog	>	tarahumara frog
+true frog	>	wood frog
+frog	>	true toad
+true toad	>	agua
+true toad	>	american green toad
+true toad	>	american toad
+true toad	>	bufo
+true toad	>	eurasian green toad
+true toad	>	european toad
+true toad	>	natterjack
+true toad	>	southwestern toad
+true toad	>	texas toad
+true toad	>	western toad
+true toad	>	yosemite toad
+frog	>	western narrow mouthed toad
+amphibian	>	hynerpeton bassetti
+amphibian	>	ichyostega
+amphibian	>	labyrinthodont
+amphibian	>	salamander
+salamander	>	alpine salamander
+salamander	>	ambystomid
+ambystomid	>	axolotl
+ambystomid	>	mole salamander
+ambystomid	>	spotted salamander
+ambystomid	>	tiger salamander
+ambystomid	>	waterdog
+salamander	>	amphiuma
+salamander	>	climbing salamander
+climbing salamander	>	arboreal salamander
+salamander	>	dicamptodon
+salamander	>	dusky salamander
+salamander	>	eastern red backed salamander
+salamander	>	european fire salamander
+salamander	>	giant salamander
+salamander	>	hellbender
+salamander	>	lungless salamander
+salamander	>	mud puppy
+salamander	>	newt
+newt	>	common newt
+newt	>	eft
+newt	>	pacific newt
+pacific newt	>	california newt
+pacific newt	>	rough skinned newt
+newt	>	red eft
+salamander	>	olm
+salamander	>	olympic salamander
+salamander	>	pacific giant salamander
+salamander	>	siren
+salamander	>	slender salamander
+salamander	>	spotted salamander
+salamander	>	web toed salamander
+web toed salamander	>	limestone salamander
+web toed salamander	>	shasta salamander
+salamander	>	western red backed salamander
+amphibian	>	urodele
+vertebrate	>	aquatic vertebrate
+aquatic vertebrate	>	fish
+fish	>	bony fish
+bony fish	>	crossopterygian
+crossopterygian	>	coelacanth
+bony fish	>	lungfish
+lungfish	>	ceratodus
+bony fish	>	teleost fish
+teleost fish	>	cornetfish
+teleost fish	>	flying fish
+flying fish	>	biplane flying fish
+flying fish	>	monoplane flying fish
+teleost fish	>	ganoid
+ganoid	>	bowfin
+ganoid	>	chinese paddlefish
+ganoid	>	gar
+ganoid	>	paddlefish
+ganoid	>	sturgeon
+sturgeon	>	beluga
+sturgeon	>	pacific sturgeon
+teleost fish	>	halfbeak
+teleost fish	>	needlefish
+needlefish	>	timucu
+teleost fish	>	pipefish
+pipefish	>	deepwater pipefish
+pipefish	>	dwarf pipefish
+pipefish	>	seahorse
+teleost fish	>	saury
+teleost fish	>	shrimpfish
+teleost fish	>	snipefish
+teleost fish	>	soft finned fish
+soft finned fish	>	anchovy
+anchovy	>	mediterranean anchovy
+soft finned fish	>	argentine
+soft finned fish	>	beaked salmon
+soft finned fish	>	bonefish
+soft finned fish	>	catfish
+catfish	>	armored catfish
+catfish	>	bullhead
+bullhead	>	brown bullhead
+bullhead	>	horned pout
+catfish	>	channel catfish
+channel catfish	>	blue catfish
+catfish	>	flathead catfish
+catfish	>	sea catfish
+sea catfish	>	crucifix fish
+catfish	>	silurid
+silurid	>	electric catfish
+silurid	>	european catfish
+soft finned fish	>	clupeid fish
+clupeid fish	>	alewife
+clupeid fish	>	herring
+herring	>	atlantic herring
+herring	>	pacific herring
+clupeid fish	>	menhaden
+clupeid fish	>	pilchard
+pilchard	>	pacific sardine
+clupeid fish	>	sardine
+sardine	>	brisling
+sardine	>	sild
+clupeid fish	>	shad
+shad	>	allice shad
+shad	>	common american shad
+shad	>	river shad
+soft finned fish	>	cypriniform fish
+cypriniform fish	>	catostomid
+catostomid	>	sucker
+sucker	>	buffalo fish
+buffalo fish	>	black buffalo
+sucker	>	hog sucker
+sucker	>	redhorse
+cypriniform fish	>	characin
+characin	>	cardinal tetra
+characin	>	piranha
+characin	>	tetra
+cypriniform fish	>	cyprinid
+cyprinid	>	carp
+carp	>	domestic carp
+domestic carp	>	leather carp
+domestic carp	>	mirror carp
+cyprinid	>	chub
+cyprinid	>	crucian carp
+cyprinid	>	dace
+cyprinid	>	goldfish
+goldfish	>	silverfish
+cyprinid	>	gudgeon
+cyprinid	>	minnow
+cyprinid	>	roach
+cyprinid	>	rudd
+cyprinid	>	shiner
+shiner	>	common shiner
+shiner	>	emerald shiner
+shiner	>	golden shiner
+cyprinid	>	tench
+cypriniform fish	>	cyprinodont
+cyprinodont	>	guppy
+cyprinodont	>	killifish
+killifish	>	flagfish
+killifish	>	mummichog
+killifish	>	rivulus
+killifish	>	striped killifish
+cyprinodont	>	swordtail
+cypriniform fish	>	electric eel
+cypriniform fish	>	loach
+cypriniform fish	>	topminnow
+topminnow	>	mollie
+topminnow	>	mosquitofish
+topminnow	>	platy
+soft finned fish	>	eel
+eel	>	common eel
+eel	>	conger
+eel	>	elver
+eel	>	moray
+eel	>	tuna
+soft finned fish	>	gadoid
+gadoid	>	cod
+cod	>	atlantic cod
+cod	>	burbot
+cod	>	codling
+cod	>	pacific cod
+cod	>	scrod
+gadoid	>	cusk
+gadoid	>	grenadier
+gadoid	>	haddock
+gadoid	>	hake
+hake	>	ling
+hake	>	silver hake
+gadoid	>	ling
+gadoid	>	pollack
+gadoid	>	whiting
+soft finned fish	>	greeneye
+soft finned fish	>	handsaw fish
+soft finned fish	>	lancetfish
+soft finned fish	>	lanternfish
+soft finned fish	>	lizardfish
+soft finned fish	>	new world opah
+soft finned fish	>	oarfish
+soft finned fish	>	opah
+soft finned fish	>	ostariophysi
+soft finned fish	>	ribbonfish
+ribbonfish	>	dealfish
+soft finned fish	>	salmonid
+salmonid	>	char
+char	>	arctic char
+salmonid	>	salmon
+salmon	>	atlantic salmon
+atlantic salmon	>	landlocked salmon
+salmon	>	blackfish
+salmon	>	chinook
+salmon	>	chum salmon
+salmon	>	coho
+salmon	>	redfish
+salmon	>	sockeye
+salmonid	>	trout
+trout	>	brook trout
+trout	>	brown trout
+brown trout	>	sea trout
+trout	>	lake trout
+trout	>	rainbow trout
+soft finned fish	>	smelt
+smelt	>	capelin
+smelt	>	rainbow smelt
+smelt	>	sparling
+soft finned fish	>	tarpon
+tarpon	>	ladyfish
+soft finned fish	>	whitefish
+whitefish	>	cisco
+whitefish	>	lake whitefish
+whitefish	>	rocky mountain whitefish
+whitefish	>	round whitefish
+teleost fish	>	spiny finned fish
+spiny finned fish	>	anomalops
+spiny finned fish	>	barracuda
+barracuda	>	great barracuda
+spiny finned fish	>	batfish
+spiny finned fish	>	boarfish
+spiny finned fish	>	boarfish
+spiny finned fish	>	dory
+dory	>	john dory
+spiny finned fish	>	dragonet
+spiny finned fish	>	flashlight fish
+spiny finned fish	>	flatfish
+flatfish	>	flounder
+flatfish	>	halibut
+flatfish	>	lefteye flounder
+lefteye flounder	>	brill
+lefteye flounder	>	grey flounder
+lefteye flounder	>	sand dab
+lefteye flounder	>	southern flounder
+lefteye flounder	>	summer flounder
+lefteye flounder	>	turbot
+lefteye flounder	>	whiff
+whiff	>	horned whiff
+lefteye flounder	>	windowpane
+flatfish	>	righteye flounder
+righteye flounder	>	american plaice
+righteye flounder	>	atlantic halibut
+righteye flounder	>	european flatfish
+righteye flounder	>	lemon sole
+righteye flounder	>	pacific halibut
+righteye flounder	>	plaice
+righteye flounder	>	winter flounder
+righteye flounder	>	yellowtail flounder
+flatfish	>	sole
+sole	>	english sole
+sole	>	european sole
+sole	>	hogchoker
+sole	>	lemon sole
+sole	>	sand sole
+flatfish	>	tonguefish
+spiny finned fish	>	frogfish
+spiny finned fish	>	goosefish
+spiny finned fish	>	percoid fish
+percoid fish	>	archerfish
+percoid fish	>	bass
+bass	>	freshwater bass
+percoid fish	>	bigeye
+percoid fish	>	blanquillo
+percoid fish	>	blennioid fish
+blennioid fish	>	blenny
+blenny	>	molly miller
+blenny	>	shanny
+blennioid fish	>	clinid
+blennioid fish	>	eelpout
+eelpout	>	fish doctor
+eelpout	>	ocean pout
+eelpout	>	viviparous eelpout
+blennioid fish	>	gunnel
+gunnel	>	rock gunnel
+blennioid fish	>	pikeblenny
+pikeblenny	>	bluethroat pikeblenny
+blennioid fish	>	prickleback
+prickleback	>	eelblenny
+prickleback	>	snakeblenny
+blennioid fish	>	wolffish
+blennioid fish	>	wrymouth
+percoid fish	>	bluefish
+percoid fish	>	brotula
+percoid fish	>	butterfish
+butterfish	>	barrelfish
+butterfish	>	dollarfish
+butterfish	>	driftfish
+butterfish	>	driftfish
+butterfish	>	harvestfish
+butterfish	>	palometa
+percoid fish	>	butterfly fish
+butterfly fish	>	angelfish
+butterfly fish	>	chaetodon
+butterfly fish	>	rock beauty
+percoid fish	>	carangid fish
+carangid fish	>	jack
+jack	>	amberjack
+jack	>	crevalle jack
+jack	>	kingfish
+jack	>	leatherjacket
+jack	>	rainbow runner
+jack	>	rudderfish
+jack	>	runner
+jack	>	threadfish
+jack	>	yellow jack
+jack	>	yellowtail
+carangid fish	>	moonfish
+moonfish	>	lookdown
+carangid fish	>	pilotfish
+carangid fish	>	pompano
+pompano	>	florida pompano
+pompano	>	permit
+carangid fish	>	scad
+scad	>	bigeye scad
+scad	>	horse mackerel
+scad	>	horse mackerel
+scad	>	mackerel scad
+scad	>	round scad
+percoid fish	>	cardinalfish
+cardinalfish	>	conchfish
+cardinalfish	>	flame fish
+percoid fish	>	catalufa
+percoid fish	>	cichlid
+cichlid	>	bolti
+percoid fish	>	clingfish
+clingfish	>	skillet fish
+percoid fish	>	cobia
+percoid fish	>	cusk eel
+percoid fish	>	cutlassfish
+percoid fish	>	damselfish
+damselfish	>	anemone fish
+anemone fish	>	clown anemone fish
+damselfish	>	beaugregory
+damselfish	>	sergeant major
+percoid fish	>	dolphinfish
+dolphinfish	>	coryphaena equisetis
+dolphinfish	>	coryphaena hippurus
+percoid fish	>	flathead
+percoid fish	>	gempylid
+gempylid	>	escolar
+gempylid	>	oilfish
+gempylid	>	snake mackerel
+percoid fish	>	goby
+goby	>	mudskipper
+percoid fish	>	grunt
+grunt	>	cottonwick
+grunt	>	margate
+grunt	>	pigfish
+grunt	>	pompon
+grunt	>	porkfish
+grunt	>	sailor's choice
+grunt	>	spanish grunt
+grunt	>	tomtate
+percoid fish	>	jawfish
+percoid fish	>	mojarra
+mojarra	>	silver jenny
+mojarra	>	yellowfin mojarra
+percoid fish	>	mullet
+mullet	>	liza
+mullet	>	striped mullet
+mullet	>	white mullet
+percoid fish	>	mullet
+mullet	>	goatfish
+goatfish	>	red goatfish
+goatfish	>	yellow goatfish
+percoid fish	>	parrotfish
+percoid fish	>	pearlfish
+percoid fish	>	perch
+perch	>	european perch
+perch	>	pike perch
+pike perch	>	walleye
+walleye	>	blue pike
+perch	>	snail darter
+perch	>	yellow perch
+percoid fish	>	perch
+percoid fish	>	pike
+pike	>	muskellunge
+pike	>	northern pike
+pike	>	pickerel
+pickerel	>	chain pickerel
+pickerel	>	redfin pickerel
+percoid fish	>	robalo
+robalo	>	snook
+percoid fish	>	sand stargazer
+percoid fish	>	sandfish
+percoid fish	>	sciaenid fish
+sciaenid fish	>	croaker
+croaker	>	atlantic croaker
+croaker	>	white croaker
+croaker	>	white croaker
+croaker	>	yellowfin croaker
+sciaenid fish	>	drum
+drum	>	jackknife fish
+drum	>	red drum
+drum	>	silver perch
+drum	>	striped drum
+sciaenid fish	>	maigre
+sciaenid fish	>	mulloway
+sciaenid fish	>	sea trout
+sea trout	>	spotted weakfish
+sea trout	>	weakfish
+sciaenid fish	>	whiting
+whiting	>	corbina
+whiting	>	king whiting
+whiting	>	kingfish
+whiting	>	northern whiting
+whiting	>	silver whiting
+percoid fish	>	scombroid
+scombroid	>	billfish
+billfish	>	marlin
+marlin	>	black marlin
+marlin	>	blue marlin
+marlin	>	striped marlin
+marlin	>	white marlin
+billfish	>	spearfish
+scombroid	>	bonito
+scombroid	>	bonito
+bonito	>	chile bonito
+bonito	>	skipjack
+scombroid	>	louvar
+scombroid	>	mackerel
+mackerel	>	chub mackerel
+mackerel	>	common mackerel
+mackerel	>	spanish mackerel
+spanish mackerel	>	cero
+spanish mackerel	>	king mackerel
+spanish mackerel	>	scomberomorus maculatus
+spanish mackerel	>	sierra
+mackerel	>	spanish mackerel
+mackerel	>	wahoo
+scombroid	>	sailfish
+sailfish	>	atlantic sailfish
+scombroid	>	skipjack
+scombroid	>	squaretail
+scombroid	>	swordfish
+scombroid	>	tuna
+tuna	>	albacore
+tuna	>	bluefin
+tuna	>	yellowfin
+percoid fish	>	sea bream
+sea bream	>	atlantic sea bream
+sea bream	>	black bream
+sea bream	>	european sea bream
+sea bream	>	pomfret
+sea bream	>	porgy
+porgy	>	red porgy
+porgy	>	scup
+porgy	>	scup
+porgy	>	sheepshead porgy
+percoid fish	>	sea chub
+sea chub	>	bermuda chub
+percoid fish	>	serranid fish
+serranid fish	>	sea bass
+sea bass	>	belted sandfish
+sea bass	>	black sea bass
+sea bass	>	blackmouth bass
+sea bass	>	grouper
+grouper	>	coney
+grouper	>	creole fish
+grouper	>	hind
+hind	>	rock hind
+grouper	>	jewfish
+sea bass	>	rock sea bass
+sea bass	>	stone bass
+sea bass	>	striped bass
+serranid fish	>	soapfish
+serranid fish	>	white perch
+serranid fish	>	yellow bass
+percoid fish	>	sleeper
+percoid fish	>	snapper
+snapper	>	grey snapper
+snapper	>	mutton snapper
+snapper	>	red snapper
+snapper	>	schoolmaster
+snapper	>	yellowtail
+percoid fish	>	spadefish
+percoid fish	>	sparid
+sparid	>	pinfish
+sparid	>	sheepshead
+sparid	>	snapper
+percoid fish	>	stargazer
+percoid fish	>	sunfish
+sunfish	>	black bass
+black bass	>	kentucky black bass
+black bass	>	largemouth
+black bass	>	smallmouth
+sunfish	>	crappie
+crappie	>	black crappie
+crappie	>	white crappie
+sunfish	>	freshwater bream
+freshwater bream	>	bluegill
+freshwater bream	>	european bream
+freshwater bream	>	spotted sunfish
+sunfish	>	pumpkinseed
+sunfish	>	rock bass
+percoid fish	>	surfperch
+surfperch	>	rainbow seaperch
+percoid fish	>	surgeonfish
+surgeonfish	>	doctorfish
+percoid fish	>	threadfin
+threadfin	>	barbu
+percoid fish	>	tilefish
+percoid fish	>	tripletail
+tripletail	>	atlantic tripletail
+tripletail	>	pacific tripletail
+percoid fish	>	whiting
+percoid fish	>	worm fish
+percoid fish	>	wrasse
+wrasse	>	bluehead
+wrasse	>	cunner
+wrasse	>	hogfish
+wrasse	>	pigfish
+wrasse	>	puddingwife
+wrasse	>	razor fish
+razor fish	>	pearly razorfish
+wrasse	>	slippery dick
+wrasse	>	tautog
+spiny finned fish	>	plectognath
+plectognath	>	boxfish
+boxfish	>	cowfish
+plectognath	>	filefish
+filefish	>	leatherjacket
+plectognath	>	ocean sunfish
+ocean sunfish	>	sharptail mola
+plectognath	>	puffer
+plectognath	>	spiny puffer
+spiny puffer	>	balloonfish
+spiny puffer	>	burrfish
+spiny puffer	>	porcupinefish
+plectognath	>	triggerfish
+triggerfish	>	queen triggerfish
+spiny finned fish	>	remora
+remora	>	sharksucker
+remora	>	whale sucker
+spiny finned fish	>	sand lance
+spiny finned fish	>	sargassum fish
+spiny finned fish	>	scorpaenoid
+scorpaenoid	>	flathead
+scorpaenoid	>	flying gurnard
+scorpaenoid	>	greenling
+greenling	>	kelp greenling
+greenling	>	painted greenling
+scorpaenoid	>	gurnard
+gurnard	>	sea robin
+sea robin	>	armored searobin
+sea robin	>	northern sea robin
+gurnard	>	tub gurnard
+scorpaenoid	>	lingcod
+scorpaenoid	>	lumpfish
+lumpfish	>	lumpsucker
+scorpaenoid	>	poacher
+poacher	>	alligatorfish
+poacher	>	pogge
+scorpaenoid	>	scorpaenid
+scorpaenid	>	lionfish
+scorpaenid	>	rockfish
+rockfish	>	copper rockfish
+rockfish	>	red rockfish
+rockfish	>	rosefish
+rockfish	>	vermillion rockfish
+scorpaenid	>	scorpionfish
+scorpionfish	>	plumed scorpionfish
+scorpaenid	>	stonefish
+scorpaenoid	>	sculpin
+sculpin	>	bullhead
+sculpin	>	grubby
+sculpin	>	miller's thumb
+sculpin	>	sea raven
+scorpaenoid	>	snailfish
+spiny finned fish	>	silversides
+silversides	>	jacksmelt
+spiny finned fish	>	squirrelfish
+squirrelfish	>	deepwater squirrelfish
+squirrelfish	>	holocentrus ascensionis
+squirrelfish	>	reef squirrelfish
+squirrelfish	>	soldierfish
+spiny finned fish	>	stickleback
+stickleback	>	ten spined stickleback
+stickleback	>	three spined stickleback
+spiny finned fish	>	toadfish
+toadfish	>	oyster fish
+teleost fish	>	sweeper
+teleost fish	>	trumpetfish
+fish	>	bottom feeder
+bottom feeder	>	mullet
+mullet	>	goatfish
+goatfish	>	red goatfish
+goatfish	>	yellow goatfish
+fish	>	bottom lurkers
+fish	>	cartilaginous fish
+cartilaginous fish	>	elasmobranch
+elasmobranch	>	ray
+ray	>	eagle ray
+eagle ray	>	cownose ray
+eagle ray	>	spotted eagle ray
+ray	>	electric ray
+ray	>	guitarfish
+ray	>	manta
+manta	>	atlantic manta
+manta	>	devil ray
+ray	>	sawfish
+sawfish	>	smalltooth sawfish
+ray	>	skate
+skate	>	barndoor skate
+skate	>	grey skate
+skate	>	little skate
+skate	>	thorny skate
+ray	>	stingray
+stingray	>	butterfly ray
+stingray	>	roughtail stingray
+elasmobranch	>	shark
+shark	>	angel shark
+shark	>	carpet shark
+shark	>	cat shark
+shark	>	cow shark
+shark	>	dogfish
+dogfish	>	smooth dogfish
+smooth dogfish	>	american smooth dogfish
+smooth dogfish	>	florida smoothhound
+smooth dogfish	>	smoothhound
+smooth dogfish	>	whitetip shark
+dogfish	>	spiny dogfish
+spiny dogfish	>	atlantic spiny dogfish
+spiny dogfish	>	pacific spiny dogfish
+shark	>	hammerhead
+hammerhead	>	shovelhead
+hammerhead	>	smalleye hammerhead
+hammerhead	>	smooth hammerhead
+shark	>	mackerel shark
+mackerel shark	>	basking shark
+mackerel shark	>	great white shark
+mackerel shark	>	mako
+mako	>	bonito shark
+mako	>	longfin mako
+mako	>	shortfin mako
+mackerel shark	>	porbeagle
+shark	>	nurse shark
+shark	>	requiem shark
+requiem shark	>	blacktip shark
+requiem shark	>	blue shark
+requiem shark	>	bull shark
+requiem shark	>	dusky shark
+requiem shark	>	lemon shark
+requiem shark	>	sandbar shark
+requiem shark	>	soupfin shark
+requiem shark	>	tiger shark
+requiem shark	>	whitetip shark
+shark	>	sand tiger
+shark	>	thresher
+shark	>	whale shark
+cartilaginous fish	>	holocephalan
+holocephalan	>	chimaera
+chimaera	>	rabbitfish
+fish	>	climbing perch
+fish	>	fingerling
+fish	>	food fish
+food fish	>	barracouta
+food fish	>	groundfish
+food fish	>	herring
+herring	>	atlantic herring
+herring	>	pacific herring
+food fish	>	salmon
+salmon	>	atlantic salmon
+atlantic salmon	>	landlocked salmon
+salmon	>	blackfish
+salmon	>	chinook
+salmon	>	chum salmon
+salmon	>	coho
+salmon	>	redfish
+salmon	>	sockeye
+food fish	>	sardine
+sardine	>	brisling
+sardine	>	sild
+food fish	>	sea bass
+sea bass	>	belted sandfish
+sea bass	>	black sea bass
+sea bass	>	blackmouth bass
+sea bass	>	grouper
+grouper	>	coney
+grouper	>	creole fish
+grouper	>	hind
+hind	>	rock hind
+grouper	>	jewfish
+sea bass	>	rock sea bass
+sea bass	>	stone bass
+sea bass	>	striped bass
+food fish	>	shad
+shad	>	allice shad
+shad	>	common american shad
+shad	>	river shad
+food fish	>	snapper
+snapper	>	grey snapper
+snapper	>	mutton snapper
+snapper	>	red snapper
+snapper	>	schoolmaster
+snapper	>	yellowtail
+food fish	>	sole
+sole	>	english sole
+sole	>	european sole
+sole	>	hogchoker
+sole	>	lemon sole
+sole	>	sand sole
+food fish	>	trout
+trout	>	brook trout
+trout	>	brown trout
+brown trout	>	sea trout
+trout	>	lake trout
+trout	>	rainbow trout
+food fish	>	tuna
+tuna	>	albacore
+tuna	>	bluefin
+tuna	>	yellowfin
+food fish	>	whitefish
+whitefish	>	cisco
+whitefish	>	lake whitefish
+whitefish	>	rocky mountain whitefish
+whitefish	>	round whitefish
+fish	>	game fish
+fish	>	mouthbreeder
+fish	>	northern snakehead
+fish	>	rough fish
+fish	>	spawner
+fish	>	young fish
+young fish	>	brit
+young fish	>	parr
+young fish	>	parr
+young fish	>	whitebait
+aquatic vertebrate	>	jawless vertebrate
+jawless vertebrate	>	anaspid
+jawless vertebrate	>	conodont
+jawless vertebrate	>	cyclostome
+jawless vertebrate	>	hagfish
+hagfish	>	eptatretus
+hagfish	>	myxine glutinosa
+hagfish	>	myxinikela siroka
+jawless vertebrate	>	heterostracan
+jawless vertebrate	>	lamprey
+lamprey	>	sea lamprey
+jawless vertebrate	>	osteostracan
+jawless vertebrate	>	ostracoderm
+aquatic vertebrate	>	placoderm
+vertebrate	>	bird
+bird	>	apodiform bird
+apodiform bird	>	hummingbird
+hummingbird	>	archilochus colubris
+hummingbird	>	thornbill
+apodiform bird	>	swift
+swift	>	chimney swift
+swift	>	european swift
+swift	>	swiftlet
+apodiform bird	>	tree swift
+bird	>	aquatic bird
+aquatic bird	>	gallinule
+gallinule	>	florida gallinule
+gallinule	>	moorhen
+gallinule	>	purple gallinule
+purple gallinule	>	american gallinule
+purple gallinule	>	european gallinule
+aquatic bird	>	seabird
+seabird	>	auk
+auk	>	auklet
+auk	>	great auk
+auk	>	guillemot
+guillemot	>	black guillemot
+guillemot	>	murre
+murre	>	common murre
+murre	>	thick billed murre
+guillemot	>	pigeon guillemot
+auk	>	little auk
+auk	>	razorbill
+seabird	>	coastal diving bird
+coastal diving bird	>	jaeger
+jaeger	>	parasitic jaeger
+jaeger	>	skua
+skua	>	great skua
+coastal diving bird	>	larid
+larid	>	gull
+gull	>	black backed gull
+gull	>	herring gull
+gull	>	ivory gull
+gull	>	kittiwake
+gull	>	laughing gull
+gull	>	mew
+larid	>	tern
+tern	>	sea swallow
+coastal diving bird	>	skimmer
+seabird	>	gaviiform seabird
+gaviiform seabird	>	loon
+seabird	>	pelagic bird
+pelagic bird	>	albatross
+albatross	>	black footed albatross
+albatross	>	wandering albatross
+pelagic bird	>	diving petrel
+pelagic bird	>	petrel
+petrel	>	fulmar
+petrel	>	giant petrel
+petrel	>	shearwater
+shearwater	>	manx shearwater
+petrel	>	storm petrel
+storm petrel	>	mother carey's chicken
+storm petrel	>	stormy petrel
+petrel	>	white chinned petrel
+pelagic bird	>	procellariiform seabird
+seabird	>	pelecaniform seabird
+pelecaniform seabird	>	cormorant
+pelecaniform seabird	>	frigate bird
+pelecaniform seabird	>	gannet
+gannet	>	booby
+gannet	>	solan
+pelecaniform seabird	>	pelican
+pelican	>	old world white pelican
+pelican	>	white pelican
+pelecaniform seabird	>	snakebird
+snakebird	>	water turkey
+pelecaniform seabird	>	tropic bird
+seabird	>	podicipitiform seabird
+podicipitiform seabird	>	grebe
+grebe	>	black necked grebe
+grebe	>	dabchick
+grebe	>	great crested grebe
+grebe	>	pied billed grebe
+grebe	>	red necked grebe
+seabird	>	puffin
+puffin	>	atlantic puffin
+puffin	>	horned puffin
+puffin	>	tufted puffin
+seabird	>	sphenisciform seabird
+sphenisciform seabird	>	penguin
+penguin	>	adelie
+penguin	>	emperor penguin
+penguin	>	jackass penguin
+penguin	>	king penguin
+penguin	>	rock hopper
+aquatic bird	>	swan
+swan	>	black swan
+swan	>	cob
+swan	>	coscoroba
+swan	>	cygnet
+swan	>	mute swan
+swan	>	pen
+swan	>	trumpeter
+swan	>	tundra swan
+tundra swan	>	bewick's swan
+tundra swan	>	whistling swan
+swan	>	whooper
+aquatic bird	>	wading bird
+wading bird	>	bustard
+bustard	>	great bustard
+bustard	>	plain turkey
+wading bird	>	button quail
+button quail	>	striped button quail
+wading bird	>	chunga
+wading bird	>	courlan
+wading bird	>	crane
+crane	>	whooping crane
+wading bird	>	crested cariama
+wading bird	>	flamingo
+wading bird	>	heron
+heron	>	bittern
+bittern	>	american bittern
+bittern	>	european bittern
+bittern	>	least bittern
+heron	>	boatbill
+heron	>	egret
+egret	>	american egret
+egret	>	cattle egret
+egret	>	great white heron
+egret	>	little egret
+egret	>	snowy egret
+heron	>	great blue heron
+heron	>	great white heron
+heron	>	little blue heron
+heron	>	night heron
+night heron	>	black crowned night heron
+night heron	>	yellow crowned night heron
+wading bird	>	ibis
+ibis	>	sacred ibis
+ibis	>	wood ibis
+wading bird	>	limpkin
+wading bird	>	ortygan
+wading bird	>	plain wanderer
+wading bird	>	rail
+rail	>	coot
+coot	>	american coot
+coot	>	old world coot
+rail	>	crake
+crake	>	corncrake
+crake	>	spotted crake
+rail	>	notornis
+rail	>	weka
+wading bird	>	shoebill
+wading bird	>	shorebird
+shorebird	>	avocet
+shorebird	>	courser
+courser	>	cream colored courser
+courser	>	crocodile bird
+shorebird	>	curlew
+curlew	>	eskimo curlew
+curlew	>	european curlew
+shorebird	>	godwit
+godwit	>	hudsonian godwit
+shorebird	>	oystercatcher
+shorebird	>	phalarope
+phalarope	>	northern phalarope
+phalarope	>	red phalarope
+phalarope	>	wilson's phalarope
+shorebird	>	plover
+plover	>	dotterel
+plover	>	golden plover
+plover	>	killdeer
+plover	>	lapwing
+plover	>	piping plover
+plover	>	turnstone
+turnstone	>	black turnstone
+turnstone	>	ruddy turnstone
+shorebird	>	pratincole
+shorebird	>	sandpiper
+sandpiper	>	curlew sandpiper
+sandpiper	>	european sandpiper
+sandpiper	>	greenshank
+sandpiper	>	knot
+sandpiper	>	least sandpiper
+sandpiper	>	pectoral sandpiper
+sandpiper	>	red backed sandpiper
+sandpiper	>	redshank
+sandpiper	>	ruff
+ruff	>	reeve
+sandpiper	>	sanderling
+sandpiper	>	spotted sandpiper
+sandpiper	>	tattler
+tattler	>	polynesian tattler
+tattler	>	willet
+sandpiper	>	upland sandpiper
+sandpiper	>	yellowlegs
+yellowlegs	>	greater yellowlegs
+yellowlegs	>	lesser yellowlegs
+shorebird	>	snipe
+snipe	>	dowitcher
+dowitcher	>	greyback
+dowitcher	>	red breasted snipe
+snipe	>	great snipe
+snipe	>	jacksnipe
+snipe	>	whole snipe
+snipe	>	wilson's snipe
+shorebird	>	stilt
+stilt	>	banded stilt
+shorebird	>	stilt
+stilt	>	black necked stilt
+stilt	>	black winged stilt
+stilt	>	kaki
+stilt	>	white headed stilt
+shorebird	>	stone curlew
+shorebird	>	surfbird
+shorebird	>	woodcock
+woodcock	>	american woodcock
+woodcock	>	eurasian woodcock
+wading bird	>	spoonbill
+spoonbill	>	common spoonbill
+spoonbill	>	roseate spoonbill
+wading bird	>	stork
+stork	>	adjutant bird
+stork	>	black stork
+stork	>	jabiru
+stork	>	marabou
+stork	>	openbill
+stork	>	policeman bird
+stork	>	saddlebill
+stork	>	white stork
+stork	>	wood ibis
+wading bird	>	trumpeter
+trumpeter	>	brazilian trumpeter
+aquatic bird	>	waterfowl
+waterfowl	>	anseriform bird
+anseriform bird	>	duck
+duck	>	black duck
+duck	>	bufflehead
+duck	>	canvasback
+duck	>	dabbling duck
+duck	>	diving duck
+duck	>	drake
+duck	>	duckling
+duck	>	goldeneye
+goldeneye	>	barrow's goldeneye
+duck	>	mallard
+duck	>	mandarin duck
+duck	>	muscovy duck
+duck	>	pintail
+duck	>	pochard
+duck	>	quack quack
+duck	>	redhead
+duck	>	ruddy duck
+duck	>	scaup
+scaup	>	greater scaup
+scaup	>	lesser scaup
+duck	>	sea duck
+sea duck	>	eider
+sea duck	>	merganser
+merganser	>	american merganser
+merganser	>	goosander
+merganser	>	hooded merganser
+merganser	>	red breasted merganser
+merganser	>	smew
+sea duck	>	old squaw
+sea duck	>	scoter
+scoter	>	common scoter
+duck	>	sheldrake
+sheldrake	>	shelduck
+duck	>	shoveler
+duck	>	teal
+teal	>	bluewing
+teal	>	garganey
+teal	>	greenwing
+duck	>	widgeon
+widgeon	>	american widgeon
+duck	>	wild duck
+duck	>	wood duck
+wood duck	>	wood drake
+anseriform bird	>	goose
+goose	>	barnacle goose
+goose	>	blue goose
+blue goose	>	snow goose
+goose	>	brant
+brant	>	common brant goose
+goose	>	chinese goose
+goose	>	gander
+goose	>	gosling
+goose	>	greylag
+goose	>	honker
+waterfowl	>	screamer
+screamer	>	crested screamer
+crested screamer	>	chaja
+screamer	>	horned screamer
+bird	>	archaeopteryx
+bird	>	archaeornis
+bird	>	bird of passage
+bird	>	bird of prey
+bird of prey	>	accipitriformes
+bird of prey	>	eagle
+eagle	>	bald eagle
+eagle	>	eaglet
+eagle	>	golden eagle
+golden eagle	>	ringtail
+eagle	>	harpy
+eagle	>	sea eagle
+sea eagle	>	ern
+sea eagle	>	fishing eagle
+sea eagle	>	kamchatkan sea eagle
+eagle	>	tawny eagle
+bird of prey	>	hawk
+hawk	>	buteonine
+hawk	>	buzzard
+hawk	>	chicken hawk
+hawk	>	cooper's hawk
+hawk	>	eyas
+hawk	>	falcon
+falcon	>	caracara
+caracara	>	audubon's caracara
+caracara	>	carancha
+falcon	>	gyrfalcon
+falcon	>	hobby
+falcon	>	kestrel
+falcon	>	peregrine
+peregrine	>	falcon gentle
+falcon	>	pigeon hawk
+falcon	>	sparrow hawk
+hawk	>	goshawk
+hawk	>	harrier
+harrier	>	marsh harrier
+harrier	>	marsh hawk
+harrier	>	montagu's harrier
+hawk	>	harrier eagle
+hawk	>	honey buzzard
+hawk	>	kite
+kite	>	black kite
+kite	>	swallow tailed kite
+kite	>	white tailed kite
+hawk	>	osprey
+hawk	>	red shouldered hawk
+hawk	>	redtail
+hawk	>	rough legged hawk
+hawk	>	sparrow hawk
+hawk	>	tiercel
+bird of prey	>	owl
+owl	>	barn owl
+owl	>	barred owl
+owl	>	great grey owl
+owl	>	hawk owl
+owl	>	hoot owl
+owl	>	horned owl
+horned owl	>	great horned owl
+owl	>	laughing owl
+owl	>	little owl
+owl	>	long eared owl
+owl	>	owlet
+owl	>	scops owl
+scops owl	>	old world scops owl
+scops owl	>	oriental scops owl
+owl	>	screech owl
+owl	>	screech owl
+owl	>	spotted owl
+owl	>	tawny owl
+bird of prey	>	secretary bird
+bird of prey	>	vulture
+vulture	>	aegypiidae
+vulture	>	new world vulture
+new world vulture	>	black vulture
+new world vulture	>	buzzard
+new world vulture	>	condor
+condor	>	andean condor
+condor	>	california condor
+new world vulture	>	king vulture
+vulture	>	old world vulture
+old world vulture	>	bearded vulture
+old world vulture	>	black vulture
+old world vulture	>	egyptian vulture
+old world vulture	>	griffon vulture
+bird	>	caprimulgiform bird
+caprimulgiform bird	>	frogmouth
+caprimulgiform bird	>	goatsucker
+goatsucker	>	chuck will's widow
+goatsucker	>	european goatsucker
+goatsucker	>	nighthawk
+goatsucker	>	poorwill
+goatsucker	>	whippoorwill
+caprimulgiform bird	>	oilbird
+bird	>	carinate
+bird	>	cock
+cock	>	gamecock
+bird	>	coraciiform bird
+coraciiform bird	>	bee eater
+coraciiform bird	>	hoopoe
+hoopoe	>	euopean hoopoe
+coraciiform bird	>	hornbill
+coraciiform bird	>	kingfisher
+kingfisher	>	belted kingfisher
+kingfisher	>	eurasian kingfisher
+kingfisher	>	kookaburra
+coraciiform bird	>	motmot
+coraciiform bird	>	roller
+roller	>	european roller
+roller	>	ground roller
+coraciiform bird	>	tody
+coraciiform bird	>	wood hoopoe
+bird	>	cuculiform bird
+cuculiform bird	>	cuckoo
+cuckoo	>	ani
+cuckoo	>	black billed cuckoo
+cuckoo	>	coucal
+coucal	>	crow pheasant
+coucal	>	pheasant coucal
+cuckoo	>	european cuckoo
+cuckoo	>	roadrunner
+cuculiform bird	>	touraco
+bird	>	dickeybird
+bird	>	gallinaceous bird
+gallinaceous bird	>	chachalaca
+chachalaca	>	texas chachalaca
+gallinaceous bird	>	columbiform bird
+columbiform bird	>	dodo
+columbiform bird	>	pigeon
+pigeon	>	band tailed pigeon
+pigeon	>	domestic pigeon
+domestic pigeon	>	fairy swallow
+domestic pigeon	>	homing pigeon
+homing pigeon	>	carrier pigeon
+domestic pigeon	>	roller
+pigeon	>	dove
+dove	>	australian turtledove
+dove	>	mourning dove
+dove	>	turtledove
+turtledove	>	ringdove
+turtledove	>	streptopelia turtur
+pigeon	>	passenger pigeon
+pigeon	>	pouter pigeon
+pigeon	>	rock dove
+pigeon	>	squab
+pigeon	>	wood pigeon
+columbiform bird	>	sandgrouse
+sandgrouse	>	painted sandgrouse
+sandgrouse	>	pallas's sandgrouse
+sandgrouse	>	pin tailed sandgrouse
+columbiform bird	>	solitaire
+gallinaceous bird	>	curassow
+gallinaceous bird	>	domestic fowl
+domestic fowl	>	bantam
+domestic fowl	>	chicken
+chicken	>	capon
+chicken	>	chick
+chicken	>	cock
+cock	>	cockerel
+chicken	>	dominique
+chicken	>	hen
+hen	>	brood hen
+hen	>	cackler
+hen	>	layer
+hen	>	mother hen
+hen	>	pullet
+chicken	>	orpington
+chicken	>	rhode island red
+chicken	>	spring chicken
+domestic fowl	>	cochin
+domestic fowl	>	cornish
+domestic fowl	>	dorking
+domestic fowl	>	game fowl
+domestic fowl	>	guinea fowl
+guinea fowl	>	guinea hen
+domestic fowl	>	plymouth rock
+domestic fowl	>	rock cornish
+domestic fowl	>	turkey
+turkey	>	turkey cock
+gallinaceous bird	>	game bird
+game bird	>	grouse
+grouse	>	black grouse
+black grouse	>	asian black grouse
+black grouse	>	blackcock
+black grouse	>	european black grouse
+black grouse	>	greyhen
+grouse	>	capercaillie
+grouse	>	prairie chicken
+prairie chicken	>	greater prairie chicken
+prairie chicken	>	heath hen
+prairie chicken	>	lesser prairie chicken
+grouse	>	ptarmigan
+ptarmigan	>	red grouse
+red grouse	>	moorcock
+red grouse	>	moorhen
+grouse	>	ruffed grouse
+grouse	>	sage grouse
+grouse	>	sharp tailed grouse
+grouse	>	spruce grouse
+game bird	>	phasianid
+phasianid	>	partridge
+partridge	>	greek partridge
+partridge	>	hungarian partridge
+partridge	>	mountain quail
+partridge	>	red legged partridge
+phasianid	>	pheasant
+pheasant	>	afropavo
+pheasant	>	argus
+pheasant	>	golden pheasant
+pheasant	>	monal
+pheasant	>	peafowl
+peafowl	>	blue peafowl
+peafowl	>	green peafowl
+peafowl	>	peachick
+peafowl	>	peacock
+peafowl	>	peahen
+pheasant	>	ring necked pheasant
+pheasant	>	tragopan
+phasianid	>	quail
+quail	>	bobwhite
+bobwhite	>	northern bobwhite
+quail	>	california quail
+quail	>	old world quail
+old world quail	>	migratory quail
+game bird	>	tinamou
+gallinaceous bird	>	guan
+guan	>	piping guan
+gallinaceous bird	>	hoatzin
+gallinaceous bird	>	jungle fowl
+jungle fowl	>	jungle cock
+jungle fowl	>	jungle hen
+jungle fowl	>	red jungle fowl
+gallinaceous bird	>	megapode
+megapode	>	brush turkey
+megapode	>	maleo
+megapode	>	mallee fowl
+mallee fowl	>	mallee hen
+gallinaceous bird	>	ocellated turkey
+bird	>	hen
+bird	>	ibero mesornis
+bird	>	nester
+bird	>	night bird
+night bird	>	night raven
+bird	>	nonpasserine bird
+bird	>	parrot
+parrot	>	african grey
+parrot	>	amazon
+parrot	>	cockateel
+parrot	>	cockatoo
+cockatoo	>	pink cockatoo
+cockatoo	>	sulphur crested cockatoo
+parrot	>	kea
+parrot	>	lory
+lory	>	lorikeet
+lorikeet	>	rainbow lorikeet
+lorikeet	>	varied lorikeet
+parrot	>	lovebird
+parrot	>	macaw
+parrot	>	parakeet
+parakeet	>	budgerigar
+parakeet	>	carolina parakeet
+parakeet	>	ring necked parakeet
+parrot	>	poll
+parrot	>	popinjay
+bird	>	passerine
+passerine	>	broadbill
+passerine	>	lyrebird
+passerine	>	oscine
+oscine	>	accentor
+accentor	>	hedge sparrow
+oscine	>	australian magpie
+australian magpie	>	butcherbird
+australian magpie	>	currawong
+australian magpie	>	piping crow
+oscine	>	babbler
+oscine	>	bird of paradise
+bird of paradise	>	riflebird
+oscine	>	blue mockingbird
+oscine	>	bowerbird
+bowerbird	>	great bowerbird
+bowerbird	>	satin bowerbird
+oscine	>	catbird
+oscine	>	corvine bird
+corvine bird	>	chough
+corvine bird	>	crow
+crow	>	american crow
+corvine bird	>	jackdaw
+corvine bird	>	jay
+jay	>	canada jay
+canada jay	>	rocky mountain jay
+jay	>	new world jay
+new world jay	>	blue jay
+jay	>	old world jay
+old world jay	>	common european jay
+corvine bird	>	magpie
+magpie	>	american magpie
+magpie	>	european magpie
+corvine bird	>	nutcracker
+nutcracker	>	clark's nutcracker
+nutcracker	>	common nutcracker
+corvine bird	>	raven
+corvine bird	>	rook
+oscine	>	creeper
+creeper	>	brown creeper
+creeper	>	european creeper
+creeper	>	wall creeper
+oscine	>	fairy bluebird
+oscine	>	finch
+finch	>	brambling
+finch	>	bullfinch
+finch	>	bunting
+bunting	>	indigo bunting
+bunting	>	ortolan
+bunting	>	reed bunting
+bunting	>	snow bunting
+bunting	>	yellow breasted bunting
+bunting	>	yellowhammer
+finch	>	canary
+canary	>	common canary
+finch	>	cardinal
+finch	>	chaffinch
+finch	>	crossbill
+finch	>	goldfinch
+finch	>	grosbeak
+grosbeak	>	evening grosbeak
+grosbeak	>	hawfinch
+grosbeak	>	pine grosbeak
+finch	>	honeycreeper
+honeycreeper	>	mamo
+finch	>	house finch
+finch	>	junco
+junco	>	dark eyed junco
+finch	>	linnet
+finch	>	new world goldfinch
+finch	>	new world sparrow
+new world sparrow	>	chipping sparrow
+new world sparrow	>	field sparrow
+new world sparrow	>	song sparrow
+new world sparrow	>	swamp sparrow
+new world sparrow	>	tree sparrow
+new world sparrow	>	vesper sparrow
+new world sparrow	>	white crowned sparrow
+new world sparrow	>	white throated sparrow
+finch	>	pine siskin
+finch	>	purple finch
+finch	>	pyrrhuloxia
+finch	>	red siskin
+finch	>	redpoll
+finch	>	redpoll
+finch	>	serin
+finch	>	siskin
+finch	>	towhee
+towhee	>	chewink
+towhee	>	green tailed towhee
+oscine	>	honey eater
+oscine	>	honeycreeper
+honeycreeper	>	banana quit
+oscine	>	lark
+lark	>	skylark
+oscine	>	mockingbird
+oscine	>	new world oriole
+new world oriole	>	bobolink
+new world oriole	>	cacique
+new world oriole	>	meadowlark
+meadowlark	>	eastern meadowlark
+meadowlark	>	western meadowlark
+new world oriole	>	new world blackbird
+new world blackbird	>	cowbird
+new world blackbird	>	grackle
+grackle	>	purple grackle
+new world blackbird	>	red winged blackbird
+new world blackbird	>	rusty blackbird
+new world oriole	>	northern oriole
+northern oriole	>	baltimore oriole
+northern oriole	>	bullock's oriole
+new world oriole	>	orchard oriole
+oscine	>	new zealand wren
+new zealand wren	>	rifleman bird
+new zealand wren	>	rock wren
+oscine	>	nuthatch
+nuthatch	>	european nuthatch
+nuthatch	>	red breasted nuthatch
+nuthatch	>	white breasted nuthatch
+oscine	>	old world flycatcher
+old world flycatcher	>	spotted flycatcher
+old world flycatcher	>	thickhead
+oscine	>	old world oriole
+old world oriole	>	fig bird
+old world oriole	>	golden oriole
+oscine	>	pipit
+pipit	>	meadow pipit
+oscine	>	shrike
+shrike	>	bush shrike
+bush shrike	>	black fronted bush shrike
+shrike	>	butcherbird
+butcherbird	>	european shrike
+butcherbird	>	northern shrike
+butcherbird	>	white rumped shrike
+shrike	>	loggerhead shrike
+shrike	>	migrant shrike
+oscine	>	songbird
+oscine	>	starling
+starling	>	common starling
+starling	>	myna
+myna	>	crested myna
+myna	>	hill myna
+starling	>	rose colored starling
+oscine	>	swallow
+swallow	>	barn swallow
+swallow	>	cliff swallow
+swallow	>	martin
+martin	>	bank martin
+martin	>	house martin
+martin	>	purple martin
+swallow	>	tree swallow
+swallow	>	white bellied swallow
+oscine	>	tanager
+tanager	>	hepatic tanager
+tanager	>	scarlet tanager
+tanager	>	summer tanager
+tanager	>	western tanager
+oscine	>	thrasher
+thrasher	>	brown thrasher
+oscine	>	thrush
+thrush	>	blackbird
+thrush	>	bluebird
+thrush	>	bluethroat
+thrush	>	clay colored robin
+thrush	>	fieldfare
+thrush	>	hermit thrush
+thrush	>	missel thrush
+thrush	>	nightingale
+nightingale	>	bulbul
+thrush	>	old world chat
+old world chat	>	stonechat
+old world chat	>	whinchat
+thrush	>	redstart
+thrush	>	redwing
+thrush	>	ring ouzel
+thrush	>	robin
+thrush	>	robin
+thrush	>	solitaire
+thrush	>	song thrush
+thrush	>	thrush nightingale
+thrush	>	veery
+thrush	>	wheatear
+thrush	>	wood thrush
+oscine	>	titmouse
+titmouse	>	blue tit
+titmouse	>	bushtit
+titmouse	>	chickadee
+chickadee	>	black capped chickadee
+chickadee	>	carolina chickadee
+titmouse	>	tufted titmouse
+titmouse	>	verdin
+titmouse	>	wren tit
+oscine	>	vireo
+vireo	>	blue headed vireo
+vireo	>	red eyed vireo
+vireo	>	solitary vireo
+oscine	>	wagtail
+oscine	>	warbler
+warbler	>	gnatcatcher
+warbler	>	greater whitethroat
+warbler	>	kinglet
+kinglet	>	gold crowned kinglet
+kinglet	>	goldcrest
+kinglet	>	ruby crowned kinglet
+warbler	>	lesser whitethroat
+warbler	>	new world warbler
+new world warbler	>	audubon's warbler
+new world warbler	>	blackburn
+new world warbler	>	blackpoll
+new world warbler	>	cape may warbler
+new world warbler	>	flycatching warbler
+flycatching warbler	>	american redstart
+new world warbler	>	myrtle warbler
+new world warbler	>	new world chat
+new world chat	>	yellow breasted chat
+new world warbler	>	ovenbird
+new world warbler	>	parula warbler
+new world warbler	>	water thrush
+new world warbler	>	wilson's warbler
+new world warbler	>	yellow warbler
+new world warbler	>	yellowthroat
+yellowthroat	>	common yellowthroat
+warbler	>	old world warbler
+old world warbler	>	blackcap
+old world warbler	>	sedge warbler
+old world warbler	>	tailorbird
+old world warbler	>	wood warbler
+old world warbler	>	wren warbler
+oscine	>	water ouzel
+water ouzel	>	american water ouzel
+water ouzel	>	european water ouzel
+oscine	>	waxwing
+waxwing	>	bohemian waxwing
+waxwing	>	cedar waxwing
+oscine	>	weaver
+weaver	>	avadavat
+weaver	>	baya
+weaver	>	grassfinch
+grassfinch	>	zebra finch
+weaver	>	java sparrow
+weaver	>	whydah
+oscine	>	wood swallow
+passerine	>	scrubbird
+passerine	>	sparrow
+sparrow	>	english sparrow
+sparrow	>	tree sparrow
+passerine	>	tyrannid
+tyrannid	>	antbird
+antbird	>	ant shrike
+antbird	>	ant thrush
+antbird	>	spotted antbird
+tyrannid	>	manakin
+tyrannid	>	new world flycatcher
+new world flycatcher	>	cotinga
+cotinga	>	bellbird
+cotinga	>	cock of the rock
+cotinga	>	cock of the rock
+cotinga	>	umbrella bird
+new world flycatcher	>	kingbird
+kingbird	>	arkansas kingbird
+kingbird	>	cassin's kingbird
+kingbird	>	eastern kingbird
+kingbird	>	grey kingbird
+new world flycatcher	>	pewee
+pewee	>	western wood pewee
+new world flycatcher	>	phoebe
+new world flycatcher	>	scissortail
+new world flycatcher	>	vermillion flycatcher
+tyrannid	>	ovenbird
+tyrannid	>	pitta
+tyrannid	>	woodhewer
+passerine	>	wren
+wren	>	cactus wren
+wren	>	carolina wren
+wren	>	house wren
+wren	>	marsh wren
+marsh wren	>	long billed marsh wren
+marsh wren	>	sedge wren
+wren	>	rock wren
+wren	>	winter wren
+bird	>	piciform bird
+piciform bird	>	barbet
+piciform bird	>	honey guide
+piciform bird	>	jacamar
+piciform bird	>	puffbird
+piciform bird	>	toucan
+toucan	>	toucanet
+piciform bird	>	woodpecker
+woodpecker	>	downy woodpecker
+woodpecker	>	flicker
+flicker	>	gilded flicker
+flicker	>	red shafted flicker
+flicker	>	yellow shafted flicker
+woodpecker	>	green woodpecker
+woodpecker	>	ivorybill
+woodpecker	>	piculet
+woodpecker	>	redheaded woodpecker
+woodpecker	>	sapsucker
+sapsucker	>	red breasted sapsucker
+sapsucker	>	yellow bellied sapsucker
+woodpecker	>	wryneck
+bird	>	protoavis
+bird	>	ratite
+ratite	>	cassowary
+ratite	>	elephant bird
+ratite	>	emu
+ratite	>	kiwi
+ratite	>	moa
+moa	>	anomalopteryx
+moa	>	giant moa
+ratite	>	ostrich
+ratite	>	rhea
+ratite	>	rhea
+bird	>	sinornis
+bird	>	trogon
+trogon	>	quetzal
+quetzal	>	resplendent quetzel
+bird	>	twitterer
+vertebrate	>	fetus
+fetus	>	abortus
+fetus	>	baby
+fetus	>	monster
+vertebrate	>	gnathostome
+vertebrate	>	mammal
+mammal	>	female mammal
+mammal	>	fossorial mammal
+fossorial mammal	>	damaraland mole rat
+fossorial mammal	>	naked mole rat
+naked mole rat	>	queen
+mammal	>	metatherian
+metatherian	>	marsupial
+marsupial	>	bandicoot
+bandicoot	>	rabbit eared bandicoot
+marsupial	>	dasyurid marsupial
+dasyurid marsupial	>	dasyure
+dasyure	>	eastern dasyure
+dasyure	>	native cat
+dasyurid marsupial	>	numbat
+dasyurid marsupial	>	pouched mouse
+dasyurid marsupial	>	tasmanian devil
+dasyurid marsupial	>	thylacine
+marsupial	>	kangaroo
+kangaroo	>	giant kangaroo
+kangaroo	>	musk kangaroo
+kangaroo	>	rat kangaroo
+rat kangaroo	>	bettong
+rat kangaroo	>	jerboa kangaroo
+rat kangaroo	>	potoroo
+kangaroo	>	wallaby
+wallaby	>	common wallaby
+wallaby	>	hare wallaby
+wallaby	>	nail tailed wallaby
+wallaby	>	pademelon
+wallaby	>	rock wallaby
+wallaby	>	tree wallaby
+marsupial	>	opossum
+opossum	>	common opossum
+opossum	>	crab eating opossum
+marsupial	>	opossum rat
+marsupial	>	phalanger
+phalanger	>	brush tailed phalanger
+phalanger	>	cuscus
+phalanger	>	flying phalanger
+flying phalanger	>	flying mouse
+phalanger	>	koala
+marsupial	>	pouched mole
+marsupial	>	wombat
+mammal	>	placental
+placental	>	aardvark
+placental	>	aquatic mammal
+aquatic mammal	>	cetacean
+cetacean	>	whale
+whale	>	baleen whale
+baleen whale	>	blue whale
+baleen whale	>	bowhead
+baleen whale	>	grey whale
+baleen whale	>	humpback
+baleen whale	>	right whale
+baleen whale	>	rorqual
+rorqual	>	finback
+rorqual	>	lesser rorqual
+rorqual	>	sei whale
+whale	>	narwhal
+whale	>	spouter
+whale	>	toothed whale
+toothed whale	>	beaked whale
+beaked whale	>	bottle nosed whale
+toothed whale	>	dolphin
+dolphin	>	bottlenose dolphin
+bottlenose dolphin	>	atlantic bottlenose dolphin
+bottlenose dolphin	>	pacific bottlenose dolphin
+dolphin	>	common dolphin
+dolphin	>	grampus
+dolphin	>	killer whale
+dolphin	>	pilot whale
+dolphin	>	porpoise
+porpoise	>	harbor porpoise
+porpoise	>	vaquita
+dolphin	>	river dolphin
+dolphin	>	white whale
+toothed whale	>	dwarf sperm whale
+toothed whale	>	pygmy sperm whale
+toothed whale	>	sperm whale
+aquatic mammal	>	pinniped mammal
+pinniped mammal	>	seal
+seal	>	crabeater seal
+seal	>	eared seal
+eared seal	>	fur seal
+fur seal	>	alaska fur seal
+eared seal	>	fur seal
+fur seal	>	guadalupe fur seal
+eared seal	>	sea lion
+sea lion	>	australian sea lion
+sea lion	>	california sea lion
+sea lion	>	south american sea lion
+sea lion	>	steller sea lion
+seal	>	earless seal
+earless seal	>	bearded seal
+earless seal	>	elephant seal
+earless seal	>	harbor seal
+earless seal	>	harp seal
+earless seal	>	hooded seal
+pinniped mammal	>	walrus
+walrus	>	atlantic walrus
+walrus	>	pacific walrus
+aquatic mammal	>	sea cow
+sea cow	>	dugong
+sea cow	>	manatee
+sea cow	>	steller's sea cow
+placental	>	bat
+bat	>	carnivorous bat
+carnivorous bat	>	brown bat
+carnivorous bat	>	freetail
+freetail	>	guano bat
+freetail	>	pocketed bat
+carnivorous bat	>	leafnose bat
+leafnose bat	>	false vampire
+false vampire	>	big eared bat
+leafnose bat	>	hognose bat
+leafnose bat	>	horseshoe bat
+leafnose bat	>	horseshoe bat
+leafnose bat	>	macrotus
+leafnose bat	>	orange bat
+leafnose bat	>	phyllostomus hastatus
+leafnose bat	>	spearnose bat
+carnivorous bat	>	mastiff bat
+carnivorous bat	>	mouse eared bat
+carnivorous bat	>	vampire bat
+vampire bat	>	desmodus rotundus
+vampire bat	>	hairy legged vampire bat
+carnivorous bat	>	vespertilian bat
+vespertilian bat	>	big brown bat
+vespertilian bat	>	cave myotis
+vespertilian bat	>	eastern pipistrel
+vespertilian bat	>	frosted bat
+vespertilian bat	>	jackass bat
+vespertilian bat	>	little brown bat
+vespertilian bat	>	long eared bat
+long eared bat	>	western big eared bat
+vespertilian bat	>	pallid bat
+vespertilian bat	>	pipistrelle
+vespertilian bat	>	red bat
+vespertilian bat	>	serotine
+vespertilian bat	>	western pipistrel
+bat	>	fruit bat
+fruit bat	>	cynopterus sphinx
+fruit bat	>	flying fox
+fruit bat	>	harpy
+fruit bat	>	pteropus capestratus
+fruit bat	>	pteropus hypomelanus
+placental	>	buck
+buck	>	stag
+stag	>	royal
+placental	>	bull
+placental	>	carnivore
+carnivore	>	bear
+bear	>	american black bear
+american black bear	>	cinnamon bear
+bear	>	asiatic black bear
+bear	>	bear cub
+bear	>	brown bear
+brown bear	>	alaskan brown bear
+brown bear	>	grizzly
+brown bear	>	syrian bear
+bear	>	bruin
+bear	>	ice bear
+bear	>	sloth bear
+carnivore	>	canine
+canine	>	bitch
+bitch	>	brood bitch
+canine	>	dog
+dog	>	basenji
+dog	>	corgi
+corgi	>	cardigan
+corgi	>	pembroke
+dog	>	cur
+cur	>	feist
+cur	>	pariah dog
+dog	>	dalmatian
+dalmatian	>	liver spotted dalmatian
+dog	>	great pyrenees
+dog	>	griffon
+griffon	>	brabancon griffon
+dog	>	hunting dog
+hunting dog	>	courser
+hunting dog	>	dachshund
+dachshund	>	sausage dog
+hunting dog	>	hound
+hound	>	afghan hound
+hound	>	basset
+hound	>	beagle
+hound	>	bloodhound
+hound	>	bluetick
+hound	>	boarhound
+hound	>	coonhound
+coonhound	>	black and tan coonhound
+coonhound	>	coondog
+hound	>	foxhound
+foxhound	>	american foxhound
+foxhound	>	english foxhound
+foxhound	>	walker hound
+hound	>	greyhound
+greyhound	>	italian greyhound
+greyhound	>	whippet
+hound	>	harrier
+hound	>	ibizan hound
+hound	>	norwegian elkhound
+hound	>	otterhound
+hound	>	plott hound
+hound	>	redbone
+hound	>	saluki
+hound	>	scottish deerhound
+hound	>	staghound
+hound	>	weimaraner
+hound	>	wolfhound
+wolfhound	>	borzoi
+wolfhound	>	irish wolfhound
+hunting dog	>	rhodesian ridgeback
+hunting dog	>	sporting dog
+sporting dog	>	bird dog
+sporting dog	>	griffon
+sporting dog	>	pointer
+pointer	>	german short haired pointer
+pointer	>	vizsla
+sporting dog	>	retriever
+retriever	>	chesapeake bay retriever
+retriever	>	curly coated retriever
+retriever	>	flat coated retriever
+retriever	>	golden retriever
+retriever	>	labrador retriever
+sporting dog	>	setter
+setter	>	english setter
+setter	>	gordon setter
+setter	>	irish setter
+sporting dog	>	spaniel
+spaniel	>	brittany spaniel
+spaniel	>	clumber
+spaniel	>	cocker spaniel
+spaniel	>	field spaniel
+spaniel	>	springer spaniel
+springer spaniel	>	english springer
+springer spaniel	>	welsh springer spaniel
+spaniel	>	sussex spaniel
+spaniel	>	water spaniel
+water spaniel	>	american water spaniel
+water spaniel	>	irish water spaniel
+sporting dog	>	water dog
+hunting dog	>	terrier
+terrier	>	airedale
+terrier	>	australian terrier
+terrier	>	bedlington terrier
+terrier	>	border terrier
+terrier	>	boston bull
+terrier	>	bullterrier
+bullterrier	>	american staffordshire terrier
+bullterrier	>	staffordshire bullterrier
+terrier	>	cairn
+terrier	>	dandie dinmont
+terrier	>	fox terrier
+fox terrier	>	smooth haired fox terrier
+fox terrier	>	wire haired fox terrier
+terrier	>	irish terrier
+terrier	>	kerry blue terrier
+terrier	>	lhasa
+terrier	>	norfolk terrier
+terrier	>	norwich terrier
+terrier	>	rat terrier
+rat terrier	>	manchester terrier
+manchester terrier	>	toy manchester
+terrier	>	schnauzer
+schnauzer	>	giant schnauzer
+schnauzer	>	miniature schnauzer
+schnauzer	>	standard schnauzer
+terrier	>	scotch terrier
+terrier	>	silky terrier
+terrier	>	skye terrier
+skye terrier	>	clydesdale terrier
+terrier	>	soft coated wheaten terrier
+terrier	>	tibetan terrier
+terrier	>	west highland white terrier
+terrier	>	wirehair
+wirehair	>	lakeland terrier
+wirehair	>	welsh terrier
+welsh terrier	>	sealyham terrier
+terrier	>	yorkshire terrier
+dog	>	lapdog
+dog	>	leonberg
+dog	>	mexican hairless
+dog	>	newfoundland
+dog	>	pooch
+dog	>	poodle
+poodle	>	large poodle
+poodle	>	miniature poodle
+poodle	>	standard poodle
+poodle	>	toy poodle
+dog	>	pug
+dog	>	puppy
+dog	>	spitz
+spitz	>	chow
+spitz	>	keeshond
+spitz	>	pomeranian
+spitz	>	samoyed
+dog	>	toy dog
+toy dog	>	chihuahua
+toy dog	>	japanese spaniel
+toy dog	>	maltese dog
+toy dog	>	pekinese
+toy dog	>	shih tzu
+toy dog	>	toy spaniel
+toy spaniel	>	english toy spaniel
+english toy spaniel	>	blenheim spaniel
+toy spaniel	>	king charles spaniel
+toy spaniel	>	papillon
+toy dog	>	toy terrier
+dog	>	working dog
+working dog	>	boxer
+working dog	>	bull mastiff
+working dog	>	bulldog
+bulldog	>	french bulldog
+working dog	>	eskimo dog
+working dog	>	great dane
+working dog	>	guide dog
+guide dog	>	seeing eye dog
+working dog	>	hearing dog
+working dog	>	mastiff
+mastiff	>	tibetan mastiff
+working dog	>	police dog
+working dog	>	saint bernard
+working dog	>	seizure alert dog
+working dog	>	sennenhunde
+sennenhunde	>	appenzeller
+sennenhunde	>	bernese mountain dog
+sennenhunde	>	entlebucher
+sennenhunde	>	greater swiss mountain dog
+working dog	>	shepherd dog
+shepherd dog	>	belgian sheepdog
+belgian sheepdog	>	groenendael
+belgian sheepdog	>	malinois
+shepherd dog	>	border collie
+shepherd dog	>	bouvier des flandres
+shepherd dog	>	briard
+shepherd dog	>	collie
+shepherd dog	>	german shepherd
+shepherd dog	>	kelpie
+shepherd dog	>	komondor
+shepherd dog	>	old english sheepdog
+shepherd dog	>	rottweiler
+shepherd dog	>	shetland sheepdog
+working dog	>	sled dog
+sled dog	>	malamute
+sled dog	>	siberian husky
+working dog	>	watchdog
+watchdog	>	attack dog
+watchdog	>	housedog
+watchdog	>	kuvasz
+watchdog	>	pinscher
+pinscher	>	affenpinscher
+pinscher	>	doberman
+pinscher	>	miniature pinscher
+watchdog	>	schipperke
+canine	>	fox
+fox	>	arctic fox
+arctic fox	>	blue fox
+fox	>	grey fox
+fox	>	kit fox
+fox	>	kit fox
+fox	>	red fox
+fox	>	red fox
+red fox	>	black fox
+red fox	>	silver fox
+fox	>	reynard
+fox	>	vixen
+canine	>	hyena
+hyena	>	aardwolf
+hyena	>	brown hyena
+hyena	>	spotted hyena
+hyena	>	striped hyena
+canine	>	jackal
+canine	>	wild dog
+wild dog	>	african hunting dog
+wild dog	>	crab eating dog
+wild dog	>	dhole
+wild dog	>	dingo
+wild dog	>	raccoon dog
+canine	>	wolf
+wolf	>	coyote
+coyote	>	coydog
+wolf	>	red wolf
+wolf	>	timber wolf
+wolf	>	white wolf
+wolf	>	wolf pup
+carnivore	>	feline
+feline	>	big cat
+big cat	>	cheetah
+big cat	>	jaguar
+big cat	>	leopard
+leopard	>	leopardess
+leopard	>	panther
+big cat	>	liger
+big cat	>	lion
+lion	>	lion cub
+lion	>	lioness
+lion	>	lionet
+big cat	>	saber toothed tiger
+saber toothed tiger	>	false saber toothed tiger
+saber toothed tiger	>	smiledon californicus
+big cat	>	snow leopard
+big cat	>	tiger
+tiger	>	bengal tiger
+tiger	>	tiger cub
+tiger	>	tigress
+big cat	>	tiglon
+feline	>	cat
+cat	>	domestic cat
+domestic cat	>	abyssinian
+domestic cat	>	alley cat
+domestic cat	>	angora
+domestic cat	>	burmese cat
+domestic cat	>	egyptian cat
+domestic cat	>	kitty
+domestic cat	>	maltese
+domestic cat	>	manx
+domestic cat	>	mouser
+domestic cat	>	persian cat
+domestic cat	>	siamese cat
+siamese cat	>	blue point siamese
+domestic cat	>	tabby
+domestic cat	>	tabby
+domestic cat	>	tiger cat
+domestic cat	>	tom
+tom	>	gib
+domestic cat	>	tortoiseshell
+cat	>	wildcat
+wildcat	>	cougar
+wildcat	>	european wildcat
+wildcat	>	jaguarundi
+wildcat	>	jungle cat
+wildcat	>	kaffir cat
+wildcat	>	leopard cat
+wildcat	>	lynx
+lynx	>	bobcat
+lynx	>	canada lynx
+lynx	>	caracal
+lynx	>	common lynx
+lynx	>	spotted lynx
+wildcat	>	manul
+wildcat	>	margay
+wildcat	>	ocelot
+wildcat	>	sand cat
+wildcat	>	serval
+wildcat	>	tiger cat
+carnivore	>	fissiped mammal
+carnivore	>	musteline mammal
+musteline mammal	>	badger
+badger	>	american badger
+badger	>	eurasian badger
+badger	>	ferret badger
+badger	>	hog badger
+musteline mammal	>	black footed ferret
+musteline mammal	>	glutton
+musteline mammal	>	grison
+musteline mammal	>	marten
+marten	>	american marten
+marten	>	fisher
+marten	>	pine marten
+marten	>	sable
+marten	>	stone marten
+marten	>	yellow throated marten
+musteline mammal	>	mink
+mink	>	american mink
+musteline mammal	>	otter
+otter	>	eurasian otter
+otter	>	river otter
+musteline mammal	>	polecat
+polecat	>	ferret
+musteline mammal	>	ratel
+musteline mammal	>	sea otter
+musteline mammal	>	skunk
+skunk	>	hog nosed skunk
+skunk	>	hooded skunk
+skunk	>	spotted skunk
+skunk	>	striped skunk
+musteline mammal	>	tayra
+musteline mammal	>	weasel
+weasel	>	ermine
+ermine	>	stoat
+weasel	>	longtail weasel
+weasel	>	muishond
+muishond	>	snake muishond
+muishond	>	striped muishond
+muishond	>	zoril
+weasel	>	new world least weasel
+weasel	>	old world least weasel
+musteline mammal	>	wolverine
+carnivore	>	procyonid
+procyonid	>	bassarisk
+procyonid	>	coati
+procyonid	>	giant panda
+procyonid	>	kinkajou
+procyonid	>	lesser panda
+procyonid	>	raccoon
+raccoon	>	common raccoon
+raccoon	>	crab eating raccoon
+carnivore	>	viverrine
+viverrine	>	civet
+civet	>	banded palm civet
+civet	>	binturong
+civet	>	cryptoprocta
+civet	>	fanaloka
+civet	>	large civet
+civet	>	palm cat
+civet	>	small civet
+viverrine	>	fossa
+viverrine	>	genet
+viverrine	>	meerkat
+meerkat	>	slender tailed meerkat
+meerkat	>	suricate
+viverrine	>	mongoose
+mongoose	>	ichneumon
+mongoose	>	indian mongoose
+placental	>	cow
+placental	>	digitigrade mammal
+placental	>	doe
+placental	>	edentate
+edentate	>	anteater
+anteater	>	ant bear
+anteater	>	silky anteater
+anteater	>	tamandua
+edentate	>	armadillo
+armadillo	>	apar
+armadillo	>	giant armadillo
+armadillo	>	greater pichiciego
+armadillo	>	peba
+armadillo	>	peludo
+armadillo	>	pichiciago
+armadillo	>	tatouay
+edentate	>	megatherian
+megatherian	>	ground sloth
+edentate	>	mylodon
+edentate	>	mylodontid
+mylodontid	>	mapinguari
+edentate	>	sloth
+sloth	>	three toed sloth
+sloth	>	two toed sloth
+sloth	>	two toed sloth
+placental	>	fissipedia
+placental	>	flying lemur
+flying lemur	>	cynocephalus variegatus
+placental	>	hyrax
+hyrax	>	rock hyrax
+placental	>	insectivore
+insectivore	>	hedgehog
+insectivore	>	mole
+mole	>	brewer's mole
+mole	>	golden mole
+mole	>	shrew mole
+shrew mole	>	american shrew mole
+shrew mole	>	asiatic shrew mole
+mole	>	starnose mole
+insectivore	>	otter shrew
+insectivore	>	shrew
+shrew	>	common shrew
+shrew	>	least shrew
+shrew	>	masked shrew
+shrew	>	short tailed shrew
+shrew	>	water shrew
+water shrew	>	american water shrew
+water shrew	>	european water shrew
+water shrew	>	mediterranean water shrew
+insectivore	>	tenrec
+tenrec	>	tailless tenrec
+placental	>	lagomorph
+lagomorph	>	duplicidentata
+lagomorph	>	leporid
+leporid	>	hare
+hare	>	european hare
+hare	>	jackrabbit
+jackrabbit	>	blacktail jackrabbit
+jackrabbit	>	white tailed jackrabbit
+hare	>	leveret
+hare	>	polar hare
+hare	>	snowshoe hare
+leporid	>	rabbit
+rabbit	>	angora
+rabbit	>	belgian hare
+rabbit	>	bunny
+rabbit	>	european rabbit
+rabbit	>	lapin
+rabbit	>	rabbit ears
+rabbit	>	wood rabbit
+wood rabbit	>	eastern cottontail
+wood rabbit	>	marsh hare
+wood rabbit	>	swamp rabbit
+lagomorph	>	pika
+pika	>	collared pika
+pika	>	little chief hare
+placental	>	livestock
+placental	>	pachyderm
+pachyderm	>	elephant
+elephant	>	african elephant
+elephant	>	gomphothere
+elephant	>	indian elephant
+indian elephant	>	white elephant
+elephant	>	mammoth
+mammoth	>	columbian mammoth
+mammoth	>	imperial mammoth
+mammoth	>	woolly mammoth
+elephant	>	rogue elephant
+placental	>	pangolin
+placental	>	plantigrade mammal
+placental	>	primate
+primate	>	anthropoid
+primate	>	ape
+ape	>	anthropoid ape
+anthropoid ape	>	great ape
+great ape	>	chimpanzee
+chimpanzee	>	central chimpanzee
+chimpanzee	>	eastern chimpanzee
+chimpanzee	>	pygmy chimpanzee
+chimpanzee	>	western chimpanzee
+great ape	>	gorilla
+gorilla	>	eastern lowland gorilla
+gorilla	>	mountain gorilla
+gorilla	>	silverback
+gorilla	>	western lowland gorilla
+great ape	>	orangutan
+anthropoid ape	>	lesser ape
+lesser ape	>	gibbon
+lesser ape	>	siamang
+primate	>	hominid
+hominid	>	australopithecine
+australopithecine	>	australopithecus afarensis
+australopithecine	>	australopithecus africanus
+australopithecine	>	australopithecus boisei
+australopithecine	>	australopithecus robustus
+australopithecine	>	paranthropus
+australopithecine	>	zinjanthropus
+hominid	>	dryopithecine
+dryopithecine	>	rudapithecus
+hominid	>	homo
+homo	>	homo erectus
+homo erectus	>	java man
+homo erectus	>	peking man
+homo	>	homo habilis
+homo	>	homo sapiens
+homo sapiens	>	boskop man
+homo sapiens	>	cro magnon
+homo sapiens	>	homo sapiens sapiens
+homo	>	homo soloensis
+homo soloensis	>	solo man
+homo	>	neandertal man
+homo	>	rhodesian man
+homo	>	world
+hominid	>	javanthropus
+hominid	>	pithecanthropus
+hominid	>	sinanthropus
+hominid	>	sivapithecus
+primate	>	hominoid
+hominoid	>	aegyptopithecus
+hominoid	>	algeripithecus minutus
+hominoid	>	proconsul
+primate	>	lemur
+lemur	>	angwantibo
+lemur	>	aye aye
+lemur	>	galago
+lemur	>	indri
+lemur	>	madagascar cat
+lemur	>	potto
+lemur	>	slender loris
+lemur	>	slow loris
+lemur	>	woolly indris
+primate	>	monkey
+monkey	>	new world monkey
+new world monkey	>	capuchin
+new world monkey	>	douroucouli
+new world monkey	>	howler monkey
+new world monkey	>	marmoset
+marmoset	>	pygmy marmoset
+marmoset	>	tamarin
+tamarin	>	pinche
+tamarin	>	silky tamarin
+marmoset	>	true marmoset
+new world monkey	>	saki
+new world monkey	>	spider monkey
+new world monkey	>	squirrel monkey
+new world monkey	>	titi
+new world monkey	>	uakari
+new world monkey	>	woolly monkey
+monkey	>	old world monkey
+old world monkey	>	baboon
+baboon	>	chacma
+baboon	>	drill
+baboon	>	mandrill
+old world monkey	>	colobus
+colobus	>	guereza
+old world monkey	>	guenon
+guenon	>	green monkey
+guenon	>	grivet
+guenon	>	talapoin
+guenon	>	vervet
+old world monkey	>	langur
+langur	>	entellus
+old world monkey	>	macaque
+macaque	>	barbary ape
+macaque	>	bonnet macaque
+macaque	>	crab eating macaque
+macaque	>	rhesus
+old world monkey	>	mangabey
+old world monkey	>	patas
+old world monkey	>	proboscis monkey
+primate	>	prosimian
+primate	>	simian
+primate	>	tarsier
+tarsier	>	tarsius glis
+tarsier	>	tarsius syrichta
+placental	>	proboscidean
+proboscidean	>	elephant
+elephant	>	african elephant
+elephant	>	gomphothere
+elephant	>	indian elephant
+indian elephant	>	white elephant
+elephant	>	mammoth
+mammoth	>	columbian mammoth
+mammoth	>	imperial mammoth
+mammoth	>	woolly mammoth
+elephant	>	rogue elephant
+proboscidean	>	mastodon
+mastodon	>	american mastodon
+placental	>	rodent
+rodent	>	abrocome
+rodent	>	agouti
+rodent	>	beaver
+beaver	>	new world beaver
+beaver	>	old world beaver
+rodent	>	capybara
+rodent	>	cavy
+cavy	>	aperea
+cavy	>	guinea pig
+rodent	>	chinchilla
+rodent	>	cotton rat
+rodent	>	coypu
+rodent	>	dormouse
+dormouse	>	hazel mouse
+dormouse	>	lerot
+dormouse	>	loir
+rodent	>	gerbil
+gerbil	>	jird
+gerbil	>	sand rat
+gerbil	>	tamarisk gerbil
+rodent	>	hamster
+hamster	>	eurasian hamster
+hamster	>	golden hamster
+rodent	>	jerboa
+jerboa	>	jaculus jaculus
+jerboa	>	typical jerboa
+rodent	>	jumping mouse
+jumping mouse	>	meadow jumping mouse
+rodent	>	lemming
+lemming	>	brown lemming
+lemming	>	european lemming
+lemming	>	grey lemming
+lemming	>	northern bog lemming
+lemming	>	pied lemming
+pied lemming	>	hudson bay collared lemming
+lemming	>	southern bog lemming
+rodent	>	mara
+rodent	>	marmot
+marmot	>	groundhog
+marmot	>	hoary marmot
+marmot	>	yellowbelly marmot
+rodent	>	mole rat
+rodent	>	mole rat
+rodent	>	mountain beaver
+rodent	>	mountain chinchilla
+rodent	>	mountain paca
+rodent	>	mouse
+mouse	>	field mouse
+field mouse	>	european wood mouse
+mouse	>	harvest mouse
+mouse	>	house mouse
+mouse	>	nude mouse
+mouse	>	wood mouse
+wood mouse	>	cactus mouse
+wood mouse	>	cotton mouse
+wood mouse	>	deer mouse
+wood mouse	>	pygmy mouse
+wood mouse	>	white footed mouse
+rodent	>	murine
+rodent	>	muskrat
+rodent	>	new world mouse
+new world mouse	>	american harvest mouse
+rodent	>	paca
+rodent	>	porcupine
+porcupine	>	new world porcupine
+new world porcupine	>	canada porcupine
+porcupine	>	old world porcupine
+old world porcupine	>	brush tailed porcupine
+old world porcupine	>	long tailed porcupine
+rodent	>	prairie dog
+prairie dog	>	blacktail prairie dog
+prairie dog	>	whitetail prairie dog
+rodent	>	rat
+rat	>	bandicoot rat
+rat	>	black rat
+rat	>	brown rat
+brown rat	>	sewer rat
+brown rat	>	wharf rat
+rat	>	jerboa rat
+jerboa rat	>	kangaroo mouse
+rat	>	pocket rat
+pocket rat	>	gopher
+gopher	>	northern pocket gopher
+gopher	>	plains pocket gopher
+gopher	>	southeastern pocket gopher
+gopher	>	valley pocket gopher
+pocket rat	>	kangaroo mouse
+pocket rat	>	kangaroo rat
+kangaroo rat	>	ord kangaroo rat
+pocket rat	>	pocket mouse
+pocket mouse	>	hispid pocket mouse
+pocket mouse	>	mexican pocket mouse
+pocket mouse	>	plains pocket mouse
+pocket mouse	>	silky pocket mouse
+rat	>	rice rat
+rodent	>	round tailed muskrat
+rodent	>	sand rat
+rodent	>	squirrel
+squirrel	>	american flying squirrel
+american flying squirrel	>	northern flying squirrel
+american flying squirrel	>	southern flying squirrel
+squirrel	>	asiatic flying squirrel
+asiatic flying squirrel	>	taguan
+squirrel	>	baronduki
+squirrel	>	chipmunk
+squirrel	>	eastern chipmunk
+squirrel	>	ground squirrel
+ground squirrel	>	antelope squirrel
+ground squirrel	>	arctic ground squirrel
+ground squirrel	>	flickertail
+ground squirrel	>	mantled ground squirrel
+ground squirrel	>	rock squirrel
+ground squirrel	>	suslik
+squirrel	>	tree squirrel
+tree squirrel	>	american red squirrel
+tree squirrel	>	black squirrel
+tree squirrel	>	chickeree
+tree squirrel	>	eastern grey squirrel
+tree squirrel	>	fox squirrel
+tree squirrel	>	red squirrel
+tree squirrel	>	western grey squirrel
+rodent	>	viscacha
+rodent	>	water rat
+water rat	>	beaver rat
+rodent	>	wood rat
+wood rat	>	dusky footed wood rat
+wood rat	>	eastern woodrat
+wood rat	>	packrat
+packrat	>	dusky footed woodrat
+wood rat	>	vole
+vole	>	grasshopper mouse
+vole	>	meadow vole
+vole	>	phenacomys
+vole	>	pine vole
+vole	>	prairie vole
+vole	>	red backed mouse
+vole	>	water vole
+vole	>	water vole
+placental	>	tree shrew
+tree shrew	>	pentail
+placental	>	unguiculata
+placental	>	unguiculate
+placental	>	ungulata
+placental	>	ungulate
+ungulate	>	dinocerate
+dinocerate	>	dinoceras
+ungulate	>	even toed ungulate
+even toed ungulate	>	camel
+camel	>	arabian camel
+camel	>	bactrian camel
+even toed ungulate	>	hippopotamus
+even toed ungulate	>	llama
+llama	>	alpaca
+llama	>	domestic llama
+llama	>	guanaco
+even toed ungulate	>	peccary
+peccary	>	chiacoan peccary
+peccary	>	collared peccary
+peccary	>	white lipped peccary
+even toed ungulate	>	ruminant
+ruminant	>	bovid
+bovid	>	antelope
+antelope	>	addax
+antelope	>	blackbuck
+antelope	>	bongo
+antelope	>	dik dik
+antelope	>	eland
+eland	>	common eland
+eland	>	giant eland
+antelope	>	gazelle
+gazelle	>	gazella subgutturosa
+gazelle	>	springbok
+gazelle	>	thomson's gazelle
+antelope	>	gerenuk
+antelope	>	gnu
+antelope	>	harnessed antelope
+harnessed antelope	>	bushbuck
+harnessed antelope	>	nyala
+antelope	>	hartebeest
+antelope	>	impala
+antelope	>	kudu
+kudu	>	greater kudu
+kudu	>	lesser kudu
+antelope	>	mountain nyala
+antelope	>	nilgai
+antelope	>	oryx
+oryx	>	gemsbok
+antelope	>	puku
+antelope	>	sable antelope
+antelope	>	saiga
+antelope	>	sassaby
+antelope	>	steenbok
+antelope	>	waterbuck
+waterbuck	>	kob
+waterbuck	>	lechwe
+bovid	>	bison
+bison	>	american bison
+bison	>	wisent
+bovid	>	bovine
+bovine	>	brahman
+brahman	>	zebu
+bovine	>	cattle
+cattle	>	africander
+cattle	>	beef
+beef	>	aberdeen angus
+beef	>	cattalo
+beef	>	charolais
+beef	>	durham
+beef	>	galloway
+beef	>	hereford
+beef	>	longhorn
+beef	>	santa gertrudis
+cattle	>	bull
+bull	>	bullock
+cattle	>	bullock
+cattle	>	cow
+cow	>	heifer
+cow	>	springer
+cattle	>	dairy cattle
+dairy cattle	>	ayrshire
+dairy cattle	>	brown swiss
+dairy cattle	>	friesian
+dairy cattle	>	guernsey
+dairy cattle	>	jersey
+dairy cattle	>	milking shorthorn
+cattle	>	devon
+cattle	>	grade
+cattle	>	ox
+cattle	>	red poll
+cattle	>	stirk
+cattle	>	welsh
+bovine	>	ox
+ox	>	asian wild ox
+asian wild ox	>	gaur
+asian wild ox	>	gayal
+ox	>	aurochs
+ox	>	banteng
+ox	>	yak
+bovid	>	forest goat
+bovid	>	goat
+goat	>	billy
+goat	>	domestic goat
+domestic goat	>	angora
+domestic goat	>	cashmere goat
+goat	>	kid
+goat	>	nanny
+goat	>	wild goat
+wild goat	>	bezoar goat
+wild goat	>	ibex
+wild goat	>	markhor
+bovid	>	goat antelope
+goat antelope	>	chamois
+goat antelope	>	goral
+goat antelope	>	mountain goat
+goat antelope	>	serow
+goat antelope	>	takin
+bovid	>	musk ox
+bovid	>	old world buffalo
+old world buffalo	>	anoa
+old world buffalo	>	cape buffalo
+old world buffalo	>	tamarau
+old world buffalo	>	water buffalo
+water buffalo	>	carabao
+water buffalo	>	indian buffalo
+bovid	>	sheep
+sheep	>	black sheep
+sheep	>	domestic sheep
+domestic sheep	>	broadtail
+domestic sheep	>	cheviot
+domestic sheep	>	cotswold
+domestic sheep	>	exmoor
+domestic sheep	>	hampshire
+domestic sheep	>	lincoln
+domestic sheep	>	longwool
+domestic sheep	>	merino
+domestic sheep	>	rambouillet
+sheep	>	ewe
+sheep	>	ram
+sheep	>	wether
+wether	>	bellwether
+bovid	>	wild sheep
+wild sheep	>	aoudad
+wild sheep	>	argali
+wild sheep	>	dall sheep
+wild sheep	>	marco polo sheep
+wild sheep	>	mountain sheep
+mountain sheep	>	bighorn
+mountain sheep	>	mouflon
+wild sheep	>	urial
+ruminant	>	chevrotain
+chevrotain	>	kanchil
+chevrotain	>	napu
+chevrotain	>	water chevrotain
+ruminant	>	deer
+deer	>	brocket
+deer	>	caribou
+caribou	>	barren ground caribou
+caribou	>	woodland caribou
+deer	>	elk
+deer	>	fallow deer
+deer	>	fawn
+deer	>	japanese deer
+deer	>	mule deer
+mule deer	>	black tailed deer
+deer	>	muntjac
+deer	>	musk deer
+deer	>	pere david's deer
+deer	>	pricket
+deer	>	red deer
+red deer	>	brocket
+red deer	>	hart
+red deer	>	hind
+deer	>	roe deer
+roe deer	>	roebuck
+deer	>	sambar
+deer	>	virginia deer
+deer	>	wapiti
+ruminant	>	giraffe
+giraffe	>	okapi
+ruminant	>	pollard
+ruminant	>	pronghorn
+even toed ungulate	>	swine
+swine	>	babirusa
+swine	>	boar
+swine	>	hog
+hog	>	porker
+swine	>	razorback
+swine	>	sow
+swine	>	warthog
+swine	>	wild boar
+even toed ungulate	>	vicuna
+ungulate	>	odd toed ungulate
+odd toed ungulate	>	equine
+equine	>	ass
+ass	>	domestic ass
+domestic ass	>	burro
+domestic ass	>	moke
+ass	>	jack
+ass	>	jennet
+ass	>	wild ass
+wild ass	>	african wild ass
+wild ass	>	kiang
+wild ass	>	onager
+onager	>	chigetai
+equine	>	hinny
+equine	>	horse
+horse	>	bay
+horse	>	chestnut
+horse	>	eohippus
+horse	>	gee gee
+horse	>	hack
+horse	>	hack
+horse	>	harness horse
+harness horse	>	cob
+harness horse	>	hackney
+horse	>	liver chestnut
+horse	>	male horse
+male horse	>	gelding
+male horse	>	stallion
+stallion	>	stud
+horse	>	mare
+mare	>	broodmare
+horse	>	mesohippus
+horse	>	pacer
+horse	>	palomino
+horse	>	pinto
+horse	>	polo pony
+horse	>	pony
+pony	>	cayuse
+pony	>	mustang
+mustang	>	bronco
+bronco	>	bucking bronco
+horse	>	pony
+pony	>	exmoor
+pony	>	shetland pony
+pony	>	welsh pony
+horse	>	post horse
+horse	>	protohippus
+horse	>	racehorse
+racehorse	>	dark horse
+racehorse	>	mudder
+racehorse	>	nonstarter
+racehorse	>	pacer
+racehorse	>	pony
+racehorse	>	thoroughbred
+racehorse	>	three year old horse
+racehorse	>	trotting horse
+trotting horse	>	pole horse
+racehorse	>	two year old horse
+racehorse	>	yearling
+horse	>	roan
+horse	>	saddle horse
+saddle horse	>	american saddle horse
+saddle horse	>	appaloosa
+saddle horse	>	arabian
+saddle horse	>	buckskin
+saddle horse	>	cow pony
+saddle horse	>	crowbait
+saddle horse	>	dun
+saddle horse	>	grey
+saddle horse	>	hack
+saddle horse	>	lippizan
+saddle horse	>	morgan
+saddle horse	>	palfrey
+saddle horse	>	prancer
+saddle horse	>	quarter horse
+saddle horse	>	remount
+saddle horse	>	tennessee walker
+saddle horse	>	warhorse
+warhorse	>	cavalry horse
+warhorse	>	charger
+warhorse	>	steed
+horse	>	sorrel
+horse	>	stablemate
+horse	>	stalking horse
+horse	>	steeplechaser
+horse	>	stepper
+horse	>	wild horse
+wild horse	>	przewalski's horse
+wild horse	>	tarpan
+wild horse	>	warrigal
+horse	>	workhorse
+workhorse	>	draft horse
+draft horse	>	carthorse
+draft horse	>	clydesdale
+draft horse	>	coach horse
+draft horse	>	percheron
+draft horse	>	pole horse
+draft horse	>	shire
+draft horse	>	wheel horse
+workhorse	>	farm horse
+workhorse	>	packhorse
+workhorse	>	plow horse
+equine	>	mule
+equine	>	quagga
+equine	>	zebra
+zebra	>	common zebra
+zebra	>	grevy's zebra
+zebra	>	mountain zebra
+odd toed ungulate	>	rhinoceros
+rhinoceros	>	black rhinoceros
+rhinoceros	>	indian rhinoceros
+rhinoceros	>	white rhinoceros
+rhinoceros	>	woolly rhinoceros
+odd toed ungulate	>	tapir
+tapir	>	malayan tapir
+tapir	>	new world tapir
+placental	>	yearling
+mammal	>	prototherian
+prototherian	>	monotreme
+monotreme	>	echidna
+monotreme	>	echidna
+monotreme	>	platypus
+mammal	>	tusker
+vertebrate	>	reptile
+reptile	>	anapsid
+anapsid	>	chelonian
+chelonian	>	turtle
+turtle	>	box turtle
+box turtle	>	western box turtle
+turtle	>	cooter
+turtle	>	mud turtle
+mud turtle	>	musk turtle
+turtle	>	painted turtle
+turtle	>	red bellied terrapin
+turtle	>	sea turtle
+sea turtle	>	green turtle
+sea turtle	>	hawksbill turtle
+sea turtle	>	leatherback turtle
+sea turtle	>	loggerhead
+sea turtle	>	ridley
+ridley	>	atlantic ridley
+ridley	>	pacific ridley
+turtle	>	slider
+turtle	>	snapping turtle
+snapping turtle	>	alligator snapping turtle
+snapping turtle	>	common snapping turtle
+turtle	>	soft shelled turtle
+soft shelled turtle	>	smooth softshell
+soft shelled turtle	>	spiny softshell
+turtle	>	terrapin
+terrapin	>	diamondback terrapin
+turtle	>	tortoise
+tortoise	>	desert tortoise
+tortoise	>	european tortoise
+tortoise	>	giant tortoise
+tortoise	>	gopher tortoise
+tortoise	>	texas tortoise
+reptile	>	diapsid
+diapsid	>	archosaur
+archosaur	>	dinosaur
+dinosaur	>	argentinosaur
+dinosaur	>	diplodocus
+dinosaur	>	ground shaker
+dinosaur	>	iguanodon
+dinosaur	>	ornithischian
+ornithischian	>	armored dinosaur
+armored dinosaur	>	ankylosaur
+ankylosaur	>	edmontonia
+armored dinosaur	>	stegosaur
+ornithischian	>	bone headed dinosaur
+bone headed dinosaur	>	pachycephalosaur
+ornithischian	>	ceratopsian
+ceratopsian	>	protoceratops
+ceratopsian	>	psittacosaur
+ceratopsian	>	styracosaur
+ceratopsian	>	triceratops
+ornithischian	>	hadrosaur
+hadrosaur	>	anatotitan
+hadrosaur	>	corythosaur
+hadrosaur	>	edmontosaurus
+hadrosaur	>	trachodon
+ornithischian	>	ornithopod
+ornithischian	>	pisanosaur
+ornithischian	>	staurikosaur
+dinosaur	>	saurischian
+saurischian	>	sauropod
+sauropod	>	apatosaur
+sauropod	>	barosaur
+saurischian	>	theropod
+theropod	>	allosaur
+theropod	>	carnosaur
+theropod	>	ceratosaur
+ceratosaur	>	coelophysis
+theropod	>	compsognathus
+theropod	>	eoraptor
+theropod	>	herrerasaur
+theropod	>	maniraptor
+maniraptor	>	deinonychus
+maniraptor	>	dromaeosaur
+maniraptor	>	mononychus olecranus
+maniraptor	>	oviraptorid
+maniraptor	>	utahraptor
+maniraptor	>	velociraptor
+theropod	>	megalosaur
+theropod	>	ornithomimid
+ornithomimid	>	deinocheirus
+ornithomimid	>	struthiomimus
+theropod	>	tyrannosaur
+dinosaur	>	titanosaur
+titanosaur	>	genus argentinosaurus
+archosaur	>	ichthyosaur
+ichthyosaur	>	ichthyosaurus
+ichthyosaur	>	stenopterygius
+archosaur	>	nothosaur
+archosaur	>	plesiosaur
+archosaur	>	pterosaur
+pterosaur	>	pterodactyl
+archosaur	>	thecodont
+diapsid	>	crocodilian reptile
+crocodilian reptile	>	alligator
+alligator	>	american alligator
+alligator	>	chinese alligator
+crocodilian reptile	>	caiman
+caiman	>	spectacled caiman
+crocodilian reptile	>	crocodile
+crocodile	>	african crocodile
+crocodile	>	asian crocodile
+crocodile	>	morlett's crocodile
+crocodilian reptile	>	false gavial
+crocodilian reptile	>	gavial
+diapsid	>	saurian
+saurian	>	lizard
+lizard	>	agamid
+agamid	>	agama
+agamid	>	dragon
+agamid	>	frilled lizard
+agamid	>	moloch
+moloch	>	mountain devil
+lizard	>	anguid lizard
+anguid lizard	>	alligator lizard
+anguid lizard	>	blindworm
+anguid lizard	>	glass lizard
+lizard	>	chameleon
+chameleon	>	african chameleon
+chameleon	>	horned chameleon
+lizard	>	gecko
+gecko	>	banded gecko
+gecko	>	flying gecko
+lizard	>	iguanid
+iguanid	>	american chameleon
+iguanid	>	basilisk
+iguanid	>	chuckwalla
+iguanid	>	collared lizard
+iguanid	>	common iguana
+iguanid	>	desert iguana
+iguanid	>	earless lizard
+iguanid	>	fringe toed lizard
+iguanid	>	horned lizard
+horned lizard	>	texas horned lizard
+iguanid	>	leopard lizard
+iguanid	>	marine iguana
+iguanid	>	side blotched lizard
+iguanid	>	spiny lizard
+spiny lizard	>	fence lizard
+fence lizard	>	eastern fence lizard
+fence lizard	>	western fence lizard
+spiny lizard	>	sagebrush lizard
+iguanid	>	tree lizard
+iguanid	>	zebra tailed lizard
+lizard	>	lacertid lizard
+lacertid lizard	>	green lizard
+lacertid lizard	>	sand lizard
+lizard	>	lanthanotus borneensis
+lizard	>	legless lizard
+lizard	>	monitor
+monitor	>	african monitor
+monitor	>	komodo dragon
+lizard	>	night lizard
+lizard	>	skink
+skink	>	mountain skink
+skink	>	western skink
+lizard	>	teiid lizard
+teiid lizard	>	caiman lizard
+teiid lizard	>	teju
+teiid lizard	>	whiptail
+whiptail	>	checkered whiptail
+whiptail	>	chihuahuan spotted whiptail
+whiptail	>	plateau striped whiptail
+whiptail	>	racerunner
+whiptail	>	western whiptail
+lizard	>	venomous lizard
+venomous lizard	>	beaded lizard
+venomous lizard	>	gila monster
+lizard	>	worm lizard
+diapsid	>	snake
+snake	>	blind snake
+blind snake	>	western blind snake
+snake	>	colubrid snake
+colubrid snake	>	black headed snake
+colubrid snake	>	bull snake
+bull snake	>	gopher snake
+bull snake	>	pine snake
+colubrid snake	>	eastern ground snake
+colubrid snake	>	garter snake
+garter snake	>	common garter snake
+garter snake	>	ribbon snake
+garter snake	>	western ribbon snake
+colubrid snake	>	glossy snake
+colubrid snake	>	green snake
+colubrid snake	>	green snake
+green snake	>	rough green snake
+green snake	>	smooth green snake
+colubrid snake	>	ground snake
+colubrid snake	>	hognose snake
+colubrid snake	>	hoop snake
+colubrid snake	>	indigo snake
+indigo snake	>	eastern indigo snake
+colubrid snake	>	king snake
+king snake	>	common kingsnake
+king snake	>	milk snake
+colubrid snake	>	leaf nosed snake
+colubrid snake	>	lined snake
+colubrid snake	>	lyre snake
+lyre snake	>	sonoran lyre snake
+colubrid snake	>	night snake
+colubrid snake	>	racer
+racer	>	blacksnake
+blacksnake	>	blue racer
+racer	>	horseshoe whipsnake
+colubrid snake	>	rat snake
+rat snake	>	black rat snake
+rat snake	>	chicken snake
+rat snake	>	corn snake
+rat snake	>	indian rat snake
+colubrid snake	>	red bellied snake
+colubrid snake	>	ringneck snake
+colubrid snake	>	sand snake
+sand snake	>	banded sand snake
+colubrid snake	>	thunder snake
+colubrid snake	>	vine snake
+colubrid snake	>	water snake
+water snake	>	common water snake
+water snake	>	grass snake
+grass snake	>	viperine grass snake
+water snake	>	water moccasin
+colubrid snake	>	whip snake
+whip snake	>	california whipsnake
+whip snake	>	coachwhip
+whip snake	>	sonoran whipsnake
+snake	>	constrictor
+constrictor	>	boa
+boa	>	anaconda
+boa	>	boa constrictor
+boa	>	python
+python	>	amethystine python
+python	>	carpet snake
+python	>	indian python
+python	>	reticulated python
+python	>	rock python
+boa	>	rosy boa
+boa	>	rubber boa
+snake	>	elapid
+elapid	>	australian blacksnake
+elapid	>	cobra
+cobra	>	asp
+cobra	>	black necked cobra
+cobra	>	hamadryad
+cobra	>	indian cobra
+elapid	>	copperhead
+elapid	>	coral snake
+coral snake	>	african coral snake
+coral snake	>	asian coral snake
+coral snake	>	australian coral snake
+elapid	>	coral snake
+coral snake	>	eastern coral snake
+coral snake	>	western coral snake
+elapid	>	death adder
+elapid	>	krait
+krait	>	banded krait
+elapid	>	mamba
+mamba	>	black mamba
+black mamba	>	green mamba
+elapid	>	ringhals
+elapid	>	taipan
+elapid	>	tiger snake
+snake	>	sea snake
+snake	>	viper
+viper	>	adder
+viper	>	asp
+viper	>	gaboon viper
+viper	>	horned viper
+viper	>	pit viper
+pit viper	>	copperhead
+pit viper	>	fer de lance
+pit viper	>	rattlesnake
+rattlesnake	>	diamondback
+rattlesnake	>	ground rattler
+rattlesnake	>	massasauga
+rattlesnake	>	mojave rattlesnake
+rattlesnake	>	prairie rattlesnake
+rattlesnake	>	rock rattlesnake
+rattlesnake	>	sidewinder
+rattlesnake	>	speckled rattlesnake
+rattlesnake	>	tiger rattlesnake
+rattlesnake	>	timber rattlesnake
+timber rattlesnake	>	canebrake rattlesnake
+rattlesnake	>	western diamondback
+pit viper	>	water moccasin
+viper	>	puff adder
+diapsid	>	tuatara
+reptile	>	diapsida
+reptile	>	synapsid
+synapsid	>	dimetrodon
+synapsid	>	edaphosaurus
+synapsid	>	ictodosaur
+synapsid	>	pelycosaur
+synapsid	>	therapsid
+therapsid	>	chronoperates paradoxus
+therapsid	>	cynodont
+therapsid	>	dicynodont
+vertebrate	>	tetrapod
+tetrapod	>	quadruped
+animal	>	creepy crawly
+animal	>	critter
+animal	>	darter
+animal	>	domestic animal
+domestic animal	>	dog
+dog	>	basenji
+dog	>	corgi
+corgi	>	cardigan
+corgi	>	pembroke
+dog	>	cur
+cur	>	feist
+cur	>	pariah dog
+dog	>	dalmatian
+dalmatian	>	liver spotted dalmatian
+dog	>	great pyrenees
+dog	>	griffon
+griffon	>	brabancon griffon
+dog	>	hunting dog
+hunting dog	>	courser
+hunting dog	>	dachshund
+dachshund	>	sausage dog
+hunting dog	>	hound
+hound	>	afghan hound
+hound	>	basset
+hound	>	beagle
+hound	>	bloodhound
+hound	>	bluetick
+hound	>	boarhound
+hound	>	coonhound
+coonhound	>	black and tan coonhound
+coonhound	>	coondog
+hound	>	foxhound
+foxhound	>	american foxhound
+foxhound	>	english foxhound
+foxhound	>	walker hound
+hound	>	greyhound
+greyhound	>	italian greyhound
+greyhound	>	whippet
+hound	>	harrier
+hound	>	ibizan hound
+hound	>	norwegian elkhound
+hound	>	otterhound
+hound	>	plott hound
+hound	>	redbone
+hound	>	saluki
+hound	>	scottish deerhound
+hound	>	staghound
+hound	>	weimaraner
+hound	>	wolfhound
+wolfhound	>	borzoi
+wolfhound	>	irish wolfhound
+hunting dog	>	rhodesian ridgeback
+hunting dog	>	sporting dog
+sporting dog	>	bird dog
+sporting dog	>	griffon
+sporting dog	>	pointer
+pointer	>	german short haired pointer
+pointer	>	vizsla
+sporting dog	>	retriever
+retriever	>	chesapeake bay retriever
+retriever	>	curly coated retriever
+retriever	>	flat coated retriever
+retriever	>	golden retriever
+retriever	>	labrador retriever
+sporting dog	>	setter
+setter	>	english setter
+setter	>	gordon setter
+setter	>	irish setter
+sporting dog	>	spaniel
+spaniel	>	brittany spaniel
+spaniel	>	clumber
+spaniel	>	cocker spaniel
+spaniel	>	field spaniel
+spaniel	>	springer spaniel
+springer spaniel	>	english springer
+springer spaniel	>	welsh springer spaniel
+spaniel	>	sussex spaniel
+spaniel	>	water spaniel
+water spaniel	>	american water spaniel
+water spaniel	>	irish water spaniel
+sporting dog	>	water dog
+hunting dog	>	terrier
+terrier	>	airedale
+terrier	>	australian terrier
+terrier	>	bedlington terrier
+terrier	>	border terrier
+terrier	>	boston bull
+terrier	>	bullterrier
+bullterrier	>	american staffordshire terrier
+bullterrier	>	staffordshire bullterrier
+terrier	>	cairn
+terrier	>	dandie dinmont
+terrier	>	fox terrier
+fox terrier	>	smooth haired fox terrier
+fox terrier	>	wire haired fox terrier
+terrier	>	irish terrier
+terrier	>	kerry blue terrier
+terrier	>	lhasa
+terrier	>	norfolk terrier
+terrier	>	norwich terrier
+terrier	>	rat terrier
+rat terrier	>	manchester terrier
+manchester terrier	>	toy manchester
+terrier	>	schnauzer
+schnauzer	>	giant schnauzer
+schnauzer	>	miniature schnauzer
+schnauzer	>	standard schnauzer
+terrier	>	scotch terrier
+terrier	>	silky terrier
+terrier	>	skye terrier
+skye terrier	>	clydesdale terrier
+terrier	>	soft coated wheaten terrier
+terrier	>	tibetan terrier
+terrier	>	west highland white terrier
+terrier	>	wirehair
+wirehair	>	lakeland terrier
+wirehair	>	welsh terrier
+welsh terrier	>	sealyham terrier
+terrier	>	yorkshire terrier
+dog	>	lapdog
+dog	>	leonberg
+dog	>	mexican hairless
+dog	>	newfoundland
+dog	>	pooch
+dog	>	poodle
+poodle	>	large poodle
+poodle	>	miniature poodle
+poodle	>	standard poodle
+poodle	>	toy poodle
+dog	>	pug
+dog	>	puppy
+dog	>	spitz
+spitz	>	chow
+spitz	>	keeshond
+spitz	>	pomeranian
+spitz	>	samoyed
+dog	>	toy dog
+toy dog	>	chihuahua
+toy dog	>	japanese spaniel
+toy dog	>	maltese dog
+toy dog	>	pekinese
+toy dog	>	shih tzu
+toy dog	>	toy spaniel
+toy spaniel	>	english toy spaniel
+english toy spaniel	>	blenheim spaniel
+toy spaniel	>	king charles spaniel
+toy spaniel	>	papillon
+toy dog	>	toy terrier
+dog	>	working dog
+working dog	>	boxer
+working dog	>	bull mastiff
+working dog	>	bulldog
+bulldog	>	french bulldog
+working dog	>	eskimo dog
+working dog	>	great dane
+working dog	>	guide dog
+guide dog	>	seeing eye dog
+working dog	>	hearing dog
+working dog	>	mastiff
+mastiff	>	tibetan mastiff
+working dog	>	police dog
+working dog	>	saint bernard
+working dog	>	seizure alert dog
+working dog	>	sennenhunde
+sennenhunde	>	appenzeller
+sennenhunde	>	bernese mountain dog
+sennenhunde	>	entlebucher
+sennenhunde	>	greater swiss mountain dog
+working dog	>	shepherd dog
+shepherd dog	>	belgian sheepdog
+belgian sheepdog	>	groenendael
+belgian sheepdog	>	malinois
+shepherd dog	>	border collie
+shepherd dog	>	bouvier des flandres
+shepherd dog	>	briard
+shepherd dog	>	collie
+shepherd dog	>	german shepherd
+shepherd dog	>	kelpie
+shepherd dog	>	komondor
+shepherd dog	>	old english sheepdog
+shepherd dog	>	rottweiler
+shepherd dog	>	shetland sheepdog
+working dog	>	sled dog
+sled dog	>	malamute
+sled dog	>	siberian husky
+working dog	>	watchdog
+watchdog	>	attack dog
+watchdog	>	housedog
+watchdog	>	kuvasz
+watchdog	>	pinscher
+pinscher	>	affenpinscher
+pinscher	>	doberman
+pinscher	>	miniature pinscher
+watchdog	>	schipperke
+domestic animal	>	domestic cat
+domestic cat	>	abyssinian
+domestic cat	>	alley cat
+domestic cat	>	angora
+domestic cat	>	burmese cat
+domestic cat	>	egyptian cat
+domestic cat	>	kitty
+domestic cat	>	maltese
+domestic cat	>	manx
+domestic cat	>	mouser
+domestic cat	>	persian cat
+domestic cat	>	siamese cat
+siamese cat	>	blue point siamese
+domestic cat	>	tabby
+domestic cat	>	tabby
+domestic cat	>	tiger cat
+domestic cat	>	tom
+tom	>	gib
+domestic cat	>	tortoiseshell
+domestic animal	>	feeder
+domestic animal	>	head
+domestic animal	>	stocker
+domestic animal	>	stray
+animal	>	embryo
+embryo	>	blastula
+blastula	>	blastocyst
+embryo	>	gastrula
+embryo	>	morula
+animal	>	feeder
+animal	>	female
+female	>	dam
+female	>	female mammal
+female	>	filly
+female	>	hen
+animal	>	fictional animal
+animal	>	game
+game	>	big game
+game	>	game bird
+game bird	>	grouse
+grouse	>	black grouse
+black grouse	>	asian black grouse
+black grouse	>	blackcock
+black grouse	>	european black grouse
+black grouse	>	greyhen
+grouse	>	capercaillie
+grouse	>	prairie chicken
+prairie chicken	>	greater prairie chicken
+prairie chicken	>	heath hen
+prairie chicken	>	lesser prairie chicken
+grouse	>	ptarmigan
+ptarmigan	>	red grouse
+red grouse	>	moorcock
+red grouse	>	moorhen
+grouse	>	ruffed grouse
+grouse	>	sage grouse
+grouse	>	sharp tailed grouse
+grouse	>	spruce grouse
+game bird	>	phasianid
+phasianid	>	partridge
+partridge	>	greek partridge
+partridge	>	hungarian partridge
+partridge	>	mountain quail
+partridge	>	red legged partridge
+phasianid	>	pheasant
+pheasant	>	afropavo
+pheasant	>	argus
+pheasant	>	golden pheasant
+pheasant	>	monal
+pheasant	>	peafowl
+peafowl	>	blue peafowl
+peafowl	>	green peafowl
+peafowl	>	peachick
+peafowl	>	peacock
+peafowl	>	peahen
+pheasant	>	ring necked pheasant
+pheasant	>	tragopan
+phasianid	>	quail
+quail	>	bobwhite
+bobwhite	>	northern bobwhite
+quail	>	california quail
+quail	>	old world quail
+old world quail	>	migratory quail
+game bird	>	tinamou
+animal	>	giant
+animal	>	herbivore
+animal	>	hexapod
+animal	>	homeotherm
+animal	>	insectivore
+animal	>	invertebrate
+invertebrate	>	arthropod
+arthropod	>	arachnid
+arachnid	>	acarine
+acarine	>	mite
+mite	>	acarid
+mite	>	acarus
+mite	>	itch mite
+mite	>	rust mite
+mite	>	spider mite
+spider mite	>	red spider
+mite	>	trombiculid
+trombiculid	>	harvest mite
+mite	>	trombidiid
+mite	>	web spinning mite
+acarine	>	tick
+tick	>	hard tick
+hard tick	>	ixodes dammini
+hard tick	>	ixodes dentatus
+hard tick	>	ixodes neotomae
+hard tick	>	ixodes pacificus
+hard tick	>	ixodes persulcatus
+hard tick	>	ixodes scapularis
+hard tick	>	ixodes spinipalpis
+hard tick	>	sheep tick
+hard tick	>	wood tick
+tick	>	soft tick
+arachnid	>	false scorpion
+false scorpion	>	book scorpion
+arachnid	>	harvestman
+arachnid	>	scorpion
+arachnid	>	spider
+spider	>	barn spider
+spider	>	black and gold garden spider
+spider	>	black widow
+spider	>	comb footed spider
+spider	>	garden spider
+spider	>	orb weaving spider
+spider	>	tarantula
+spider	>	trap door spider
+spider	>	wolf spider
+wolf spider	>	european wolf spider
+arachnid	>	whip scorpion
+whip scorpion	>	vinegarroon
+arthropod	>	asian horseshoe crab
+arthropod	>	centipede
+centipede	>	house centipede
+arthropod	>	crustacean
+crustacean	>	barnacle
+barnacle	>	acorn barnacle
+barnacle	>	goose barnacle
+crustacean	>	brachyuran
+crustacean	>	branchiopod crustacean
+branchiopod crustacean	>	brine shrimp
+branchiopod crustacean	>	daphnia
+branchiopod crustacean	>	fairy shrimp
+branchiopod crustacean	>	tadpole shrimp
+crustacean	>	copepod
+copepod	>	brit
+copepod	>	cyclops
+copepod	>	fish louse
+crustacean	>	decapod crustacean
+decapod crustacean	>	crab
+crab	>	dungeness crab
+crab	>	fiddler crab
+crab	>	hard shell crab
+crab	>	jonah crab
+crab	>	king crab
+crab	>	pea crab
+pea crab	>	oyster crab
+crab	>	rock crab
+crab	>	soft shell crab
+crab	>	spider crab
+spider crab	>	european spider crab
+spider crab	>	giant crab
+crab	>	stone crab
+crab	>	swimming crab
+swimming crab	>	american lady crab
+swimming crab	>	blue crab
+swimming crab	>	english lady crab
+decapod crustacean	>	crayfish
+crayfish	>	american crayfish
+crayfish	>	old world crayfish
+decapod crustacean	>	hermit crab
+decapod crustacean	>	lobster
+lobster	>	norway lobster
+lobster	>	spiny lobster
+lobster	>	true lobster
+true lobster	>	american lobster
+true lobster	>	cape lobster
+true lobster	>	european lobster
+decapod crustacean	>	prawn
+prawn	>	long clawed prawn
+decapod crustacean	>	shrimp
+shrimp	>	snapping shrimp
+decapod crustacean	>	tropical prawn
+crustacean	>	malacostracan crustacean
+malacostracan crustacean	>	amphipod
+amphipod	>	beach flea
+amphipod	>	skeleton shrimp
+amphipod	>	whale louse
+malacostracan crustacean	>	isopod
+isopod	>	sea louse
+isopod	>	woodlouse
+woodlouse	>	pill bug
+woodlouse	>	sow bug
+malacostracan crustacean	>	krill
+krill	>	euphausia pacifica
+malacostracan crustacean	>	opossum shrimp
+crustacean	>	seed shrimp
+crustacean	>	stomatopod
+stomatopod	>	mantis shrimp
+mantis shrimp	>	squilla
+arthropod	>	eurypterid
+arthropod	>	garden centipede
+arthropod	>	horseshoe crab
+arthropod	>	insect
+insect	>	beetle
+beetle	>	asian longhorned beetle
+beetle	>	bark beetle
+bark beetle	>	dutch elm beetle
+bark beetle	>	spruce bark beetle
+beetle	>	blister beetle
+blister beetle	>	oil beetle
+blister beetle	>	spanish fly
+beetle	>	carpet beetle
+carpet beetle	>	black carpet beetle
+carpet beetle	>	buffalo carpet beetle
+beetle	>	clerid beetle
+clerid beetle	>	bee beetle
+beetle	>	deathwatch beetle
+beetle	>	elaterid beetle
+elaterid beetle	>	click beetle
+elaterid beetle	>	firefly
+beetle	>	firefly
+firefly	>	glowworm
+beetle	>	ground beetle
+ground beetle	>	bombardier beetle
+ground beetle	>	calosoma
+calosoma	>	searcher
+beetle	>	ladybug
+ladybug	>	hippodamia convergens
+ladybug	>	mexican bean beetle
+ladybug	>	two spotted ladybug
+ladybug	>	vedalia
+beetle	>	lamellicorn beetle
+lamellicorn beetle	>	scarabaeid beetle
+scarabaeid beetle	>	dung beetle
+dung beetle	>	dorbeetle
+dung beetle	>	scarab
+dung beetle	>	tumblebug
+scarabaeid beetle	>	japanese beetle
+scarabaeid beetle	>	june beetle
+june beetle	>	green june beetle
+scarabaeid beetle	>	melolonthid beetle
+melolonthid beetle	>	cockchafer
+melolonthid beetle	>	rose chafer
+scarabaeid beetle	>	oriental beetle
+scarabaeid beetle	>	rhinoceros beetle
+scarabaeid beetle	>	rose chafer
+lamellicorn beetle	>	stag beetle
+beetle	>	leaf beetle
+leaf beetle	>	colorado potato beetle
+leaf beetle	>	flea beetle
+beetle	>	long horned beetle
+long horned beetle	>	sawyer
+sawyer	>	pine sawyer
+beetle	>	rove beetle
+beetle	>	tiger beetle
+beetle	>	water beetle
+beetle	>	weevil
+weevil	>	boll weevil
+weevil	>	darkling beetle
+darkling beetle	>	flour beetle
+weevil	>	rice weevil
+weevil	>	seed beetle
+seed beetle	>	bean weevil
+seed beetle	>	pea weevil
+weevil	>	snout beetle
+beetle	>	whirligig beetle
+insect	>	bird louse
+bird louse	>	chicken louse
+insect	>	bug
+insect	>	collembolan
+insect	>	defoliator
+insect	>	dictyopterous insect
+dictyopterous insect	>	cockroach
+cockroach	>	american cockroach
+cockroach	>	australian cockroach
+cockroach	>	german cockroach
+cockroach	>	giant cockroach
+cockroach	>	oriental cockroach
+dictyopterous insect	>	mantis
+mantis	>	praying mantis
+insect	>	dipterous insect
+dipterous insect	>	crane fly
+dipterous insect	>	fly
+fly	>	bee fly
+fly	>	blowfly
+blowfly	>	bluebottle
+blowfly	>	greenbottle
+fly	>	flesh fly
+fly	>	gadfly
+gadfly	>	botfly
+botfly	>	horse botfly
+botfly	>	human botfly
+botfly	>	sheep botfly
+gadfly	>	horsefly
+gadfly	>	warble fly
+fly	>	horn fly
+fly	>	housefly
+fly	>	tachina fly
+fly	>	tsetse fly
+dipterous insect	>	fruit fly
+fruit fly	>	apple maggot
+fruit fly	>	drosophila
+fruit fly	>	mediterranean fruit fly
+fruit fly	>	vinegar fly
+dipterous insect	>	fungus gnat
+fungus gnat	>	armyworm
+dipterous insect	>	fungus gnat
+dipterous insect	>	gall midge
+gall midge	>	hessian fly
+dipterous insect	>	gnat
+gnat	>	blackfly
+gnat	>	midge
+gnat	>	psychodid
+gnat	>	punkie
+gnat	>	sand fly
+dipterous insect	>	louse fly
+louse fly	>	horse tick
+louse fly	>	sheep ked
+dipterous insect	>	mosquito
+mosquito	>	anopheline
+mosquito	>	asian tiger mosquito
+mosquito	>	common mosquito
+mosquito	>	culex quinquefasciatus
+mosquito	>	gnat
+mosquito	>	malarial mosquito
+mosquito	>	yellow fever mosquito
+dipterous insect	>	robber fly
+insect	>	earwig
+earwig	>	common european earwig
+insect	>	ephemerid
+ephemerid	>	mayfly
+ephemerid	>	plectophera
+insect	>	ephemeron
+insect	>	flea
+flea	>	cat flea
+flea	>	chigoe
+flea	>	dog flea
+flea	>	pulex irritans
+flea	>	sticktight
+insect	>	gallfly
+insect	>	hemipterous insect
+hemipterous insect	>	backswimmer
+hemipterous insect	>	bedbug
+hemipterous insect	>	coreid bug
+coreid bug	>	leaf footed bug
+coreid bug	>	squash bug
+hemipterous insect	>	leaf bug
+leaf bug	>	lace bug
+leaf bug	>	mirid bug
+mirid bug	>	four lined plant bug
+mirid bug	>	lygus bug
+lygus bug	>	tarnished plant bug
+hemipterous insect	>	lygaeid
+lygaeid	>	chinch bug
+hemipterous insect	>	true bug
+insect	>	heteropterous insect
+heteropterous insect	>	assassin bug
+assassin bug	>	conenose
+assassin bug	>	wheel bug
+heteropterous insect	>	cotton stainer
+heteropterous insect	>	firebug
+heteropterous insect	>	water bug
+water bug	>	giant water bug
+water bug	>	water boatman
+water bug	>	water scorpion
+water bug	>	water strider
+water strider	>	common pond skater
+insect	>	holometabola
+insect	>	homopterous insect
+homopterous insect	>	cicada
+cicada	>	dog day cicada
+cicada	>	seventeen year locust
+homopterous insect	>	coccid insect
+coccid insect	>	mealybug
+mealybug	>	citrophilous mealybug
+mealybug	>	citrus mealybug
+mealybug	>	comstock mealybug
+coccid insect	>	scale insect
+scale insect	>	armored scale
+armored scale	>	san jose scale
+scale insect	>	cochineal insect
+scale insect	>	soft scale
+soft scale	>	brown soft scale
+scale insect	>	wax insect
+homopterous insect	>	leafhopper
+leafhopper	>	jassid
+homopterous insect	>	plant hopper
+plant hopper	>	lantern fly
+plant hopper	>	treehopper
+homopterous insect	>	plant louse
+plant louse	>	adelgid
+adelgid	>	balsam woolly aphid
+adelgid	>	pine leaf aphid
+adelgid	>	spruce gall aphid
+adelgid	>	woolly adelgid
+plant louse	>	aphid
+aphid	>	ant cow
+aphid	>	apple aphid
+aphid	>	blackfly
+aphid	>	greenfly
+greenfly	>	green peach aphid
+greenfly	>	pale chrysanthemum aphid
+aphid	>	woolly aphid
+woolly aphid	>	woolly alder aphid
+woolly aphid	>	woolly apple aphid
+plant louse	>	grape louse
+plant louse	>	jumping plant louse
+plant louse	>	oak blight
+homopterous insect	>	spittle insect
+spittle insect	>	froghopper
+spittle insect	>	meadow spittlebug
+spittle insect	>	pine spittlebug
+spittle insect	>	saratoga spittlebug
+homopterous insect	>	whitefly
+whitefly	>	citrus whitefly
+whitefly	>	greenhouse whitefly
+whitefly	>	sweet potato whitefly
+sweet potato whitefly	>	cotton strain
+sweet potato whitefly	>	superbug
+insect	>	hymenopterous insect
+hymenopterous insect	>	ant
+ant	>	army ant
+ant	>	bulldog ant
+ant	>	carpenter ant
+ant	>	fire ant
+ant	>	little black ant
+ant	>	pharaoh ant
+ant	>	slave making ant
+slave making ant	>	amazon ant
+slave making ant	>	sanguinary ant
+ant	>	slave ant
+slave ant	>	formica fusca
+ant	>	wood ant
+hymenopterous insect	>	bee
+bee	>	andrena
+bee	>	bumblebee
+bee	>	carpenter bee
+bee	>	cuckoo bumblebee
+bee	>	drone
+bee	>	honeybee
+honeybee	>	africanized bee
+honeybee	>	black bee
+honeybee	>	carniolan bee
+honeybee	>	italian bee
+bee	>	leaf cutting bee
+bee	>	mason bee
+bee	>	nomia melanderi
+bee	>	potter bee
+hymenopterous insect	>	chalcid fly
+chalcid fly	>	chalcis fly
+hymenopterous insect	>	ichneumon fly
+hymenopterous insect	>	mutillidae
+hymenopterous insect	>	sawfly
+sawfly	>	birch leaf miner
+hymenopterous insect	>	wasp
+wasp	>	gall wasp
+wasp	>	sphecoid wasp
+sphecoid wasp	>	digger wasp
+digger wasp	>	cicada killer
+sphecoid wasp	>	mason wasp
+sphecoid wasp	>	mud dauber
+wasp	>	velvet ant
+wasp	>	vespid
+vespid	>	common wasp
+vespid	>	hornet
+hornet	>	bald faced hornet
+hornet	>	giant hornet
+hornet	>	yellow jacket
+vespid	>	mason wasp
+vespid	>	paper wasp
+paper wasp	>	polistes annularis
+vespid	>	potter wasp
+insect	>	imago
+insect	>	leaf miner
+insect	>	lepidopterous insect
+lepidopterous insect	>	butterfly
+butterfly	>	danaid
+danaid	>	monarch
+butterfly	>	lycaenid
+lycaenid	>	blue
+lycaenid	>	copper
+copper	>	american copper
+lycaenid	>	hairstreak
+hairstreak	>	strymon melinus
+butterfly	>	nymphalid
+nymphalid	>	admiral
+nymphalid	>	anglewing
+nymphalid	>	banded purple
+nymphalid	>	comma
+nymphalid	>	emperor butterfly
+emperor butterfly	>	purple emperor
+nymphalid	>	fritillary
+fritillary	>	silverspot
+nymphalid	>	mourning cloak
+nymphalid	>	painted beauty
+nymphalid	>	peacock
+nymphalid	>	red spotted purple
+nymphalid	>	red admiral
+nymphalid	>	tortoiseshell
+nymphalid	>	viceroy
+nymphalid	>	white admiral
+butterfly	>	pierid
+pierid	>	cabbage butterfly
+cabbage butterfly	>	large white
+cabbage butterfly	>	small white
+cabbage butterfly	>	southern cabbage butterfly
+butterfly	>	ringlet
+butterfly	>	sulphur butterfly
+lepidopterous insect	>	moth
+moth	>	arctiid
+arctiid	>	cinnabar
+arctiid	>	tiger moth
+moth	>	bombycid
+bombycid	>	domestic silkworm moth
+moth	>	gelechiid
+gelechiid	>	gelechia gossypiella
+gelechiid	>	grain moth
+grain moth	>	angoumois moth
+gelechiid	>	potato moth
+moth	>	geometrid
+geometrid	>	alsophila pometaria
+geometrid	>	paleacrita vernata
+moth	>	hawkmoth
+hawkmoth	>	death's head moth
+hawkmoth	>	manduca quinquemaculata
+hawkmoth	>	manduca sexta
+moth	>	lasiocampid
+lasiocampid	>	eggar
+lasiocampid	>	lappet
+lasiocampid	>	tent caterpillar moth
+lasiocampid	>	webworm moth
+webworm moth	>	hyphantria cunea
+webworm moth	>	loxostege similalis
+moth	>	lymantriid
+lymantriid	>	browntail
+lymantriid	>	gold tail moth
+lymantriid	>	gypsy moth
+moth	>	moth miller
+moth	>	noctuid moth
+noctuid moth	>	antler moth
+noctuid moth	>	armyworm
+noctuid moth	>	heliothis moth
+noctuid moth	>	spodoptera exigua
+noctuid moth	>	spodoptera frugiperda
+noctuid moth	>	underwing
+underwing	>	red underwing
+moth	>	pyralid
+pyralid	>	almond moth
+pyralid	>	bee moth
+pyralid	>	corn borer
+pyralid	>	mediterranean flour moth
+pyralid	>	raisin moth
+pyralid	>	tobacco moth
+moth	>	saturniid
+saturniid	>	cecropia
+saturniid	>	emperor
+saturniid	>	giant silkworm moth
+giant silkworm moth	>	atlas moth
+giant silkworm moth	>	cynthia moth
+saturniid	>	imperial moth
+saturniid	>	io moth
+saturniid	>	luna moth
+saturniid	>	pernyi moth
+saturniid	>	polyphemus moth
+saturniid	>	tussah
+moth	>	tent caterpillar moth
+moth	>	tineoid
+tineoid	>	gracilariid
+tineoid	>	tineid
+tineid	>	carpet moth
+tineid	>	clothes moth
+clothes moth	>	casemaking clothes moth
+clothes moth	>	webbing clothes moth
+moth	>	tortricid
+tortricid	>	codling moth
+tortricid	>	leaf roller
+tortricid	>	orange tortrix
+tortricid	>	tea tortrix
+insect	>	louse
+louse	>	body louse
+louse	>	common louse
+louse	>	crab louse
+louse	>	head louse
+insect	>	mecopteran
+mecopteran	>	hanging fly
+mecopteran	>	scorpion fly
+insect	>	neuropteron
+neuropteron	>	alderfly
+neuropteron	>	ant lion
+neuropteron	>	dobson
+neuropteron	>	fish fly
+neuropteron	>	lacewing
+lacewing	>	brown lacewing
+lacewing	>	green lacewing
+green lacewing	>	goldeneye
+neuropteron	>	mantispid
+neuropteron	>	snakefly
+neuropteron	>	spongefly
+insect	>	odonate
+odonate	>	damselfly
+odonate	>	dragonfly
+insect	>	orthopterous insect
+orthopterous insect	>	cricket
+cricket	>	european house cricket
+cricket	>	field cricket
+cricket	>	mole cricket
+cricket	>	tree cricket
+tree cricket	>	snowy tree cricket
+orthopterous insect	>	grasshopper
+grasshopper	>	long horned grasshopper
+long horned grasshopper	>	katydid
+katydid	>	mormon cricket
+long horned grasshopper	>	sand cricket
+grasshopper	>	short horned grasshopper
+short horned grasshopper	>	locust
+locust	>	migratory grasshopper
+locust	>	migratory locust
+insect	>	phasmid
+phasmid	>	walking leaf
+phasmid	>	walking stick
+walking stick	>	diapheromera
+insect	>	pollinator
+insect	>	proturan
+insect	>	psocopterous insect
+psocopterous insect	>	booklouse
+booklouse	>	common booklouse
+psocopterous insect	>	psocid
+psocid	>	bark louse
+insect	>	pupa
+pupa	>	chrysalis
+insect	>	queen
+queen	>	queen bee
+insect	>	social insect
+insect	>	stonefly
+insect	>	termite
+termite	>	dry wood termite
+dry wood termite	>	powder post termite
+termite	>	mastotermes darwiniensis
+termite	>	mastotermes electrodominicus
+termite	>	mastotermes electromexicus
+termite	>	reticulitermes flanipes
+termite	>	reticulitermes lucifugus
+insect	>	thysanopter
+thysanopter	>	thrips
+thrips	>	onion thrips
+thrips	>	tobacco thrips
+insect	>	thysanuran insect
+thysanuran insect	>	bristletail
+bristletail	>	firebrat
+thysanuran insect	>	jumping bristletail
+thysanuran insect	>	silverfish
+insect	>	trichopterous insect
+trichopterous insect	>	caddis fly
+insect	>	web spinner
+insect	>	worker
+worker	>	soldier
+worker	>	worker bee
+arthropod	>	instar
+arthropod	>	merostomata
+arthropod	>	millipede
+arthropod	>	myriapod
+arthropod	>	onychophoran
+onychophoran	>	plicatoperipatus jamaicensis
+arthropod	>	sea spider
+arthropod	>	tardigrade
+arthropod	>	tongue worm
+arthropod	>	trilobite
+invertebrate	>	brachiopod
+invertebrate	>	bryozoan
+invertebrate	>	coelenterate
+coelenterate	>	anthozoan
+anthozoan	>	coral
+coral	>	gorgonian
+gorgonian	>	red coral
+gorgonian	>	sea fan
+gorgonian	>	sea feather
+coral	>	stony coral
+stony coral	>	brain coral
+stony coral	>	mushroom coral
+stony coral	>	staghorn coral
+anthozoan	>	sea anemone
+sea anemone	>	actinia
+anthozoan	>	sea pen
+coelenterate	>	hydrozoan
+hydrozoan	>	hydra
+hydrozoan	>	planula
+hydrozoan	>	sertularian
+hydrozoan	>	siphonophore
+siphonophore	>	apolemia
+siphonophore	>	nanomia
+siphonophore	>	portuguese man of war
+siphonophore	>	praya
+coelenterate	>	jellyfish
+jellyfish	>	aegina
+jellyfish	>	chrysaora quinquecirrha
+coelenterate	>	medusa
+coelenterate	>	polyp
+coelenterate	>	scyphozoan
+invertebrate	>	ctenophore
+ctenophore	>	beroe
+ctenophore	>	platyctenean
+ctenophore	>	sea gooseberry
+ctenophore	>	venus's girdle
+invertebrate	>	echinoderm
+echinoderm	>	basket star
+basket star	>	astrophyton muricatum
+echinoderm	>	brittle star
+echinoderm	>	crinoid
+crinoid	>	feather star
+crinoid	>	sea lily
+echinoderm	>	sea cucumber
+sea cucumber	>	trepang
+echinoderm	>	sea urchin
+sea urchin	>	edible sea urchin
+sea urchin	>	heart urchin
+sea urchin	>	sand dollar
+echinoderm	>	starfish
+invertebrate	>	ectoproct
+invertebrate	>	entoproct
+invertebrate	>	mollusk
+mollusk	>	bivalve
+bivalve	>	ark shell
+bivalve	>	blood clam
+bivalve	>	clam
+clam	>	geoduck
+clam	>	giant clam
+clam	>	quahog
+quahog	>	cherrystone
+quahog	>	littleneck
+clam	>	razor clam
+clam	>	shipworm
+shipworm	>	giant northwest shipworm
+shipworm	>	teredo
+clam	>	soft shell clam
+bivalve	>	cockle
+cockle	>	edible cockle
+bivalve	>	mussel
+mussel	>	freshwater mussel
+freshwater mussel	>	pearly shelled mussel
+freshwater mussel	>	thin shelled mussel
+freshwater mussel	>	zebra mussel
+mussel	>	marine mussel
+marine mussel	>	edible mussel
+bivalve	>	oyster
+oyster	>	bluepoint
+oyster	>	japanese oyster
+oyster	>	pearl oyster
+oyster	>	saddle oyster
+oyster	>	seed oyster
+oyster	>	virginia oyster
+oyster	>	window oyster
+bivalve	>	piddock
+bivalve	>	scallop
+scallop	>	bay scallop
+scallop	>	sea scallop
+mollusk	>	cephalopod
+cephalopod	>	chambered nautilus
+cephalopod	>	decapod
+decapod	>	cuttlefish
+decapod	>	spirula
+decapod	>	squid
+squid	>	architeuthis
+squid	>	loligo
+squid	>	ommastrephes
+cephalopod	>	dibranchiate
+cephalopod	>	octopod
+octopod	>	octopus
+octopod	>	paper nautilus
+mollusk	>	chiton
+mollusk	>	gastropod
+gastropod	>	abalone
+abalone	>	ormer
+gastropod	>	bubble shell
+gastropod	>	conch
+conch	>	giant conch
+gastropod	>	cowrie
+cowrie	>	money cowrie
+cowrie	>	tiger cowrie
+gastropod	>	physa
+gastropod	>	river limpet
+gastropod	>	sea hare
+gastropod	>	sea slug
+sea slug	>	hermissenda crassicornis
+gastropod	>	seasnail
+seasnail	>	limpet
+limpet	>	common limpet
+limpet	>	keyhole limpet
+seasnail	>	moon shell
+seasnail	>	neritid
+neritid	>	bleeding tooth
+neritid	>	nerita
+neritid	>	neritina
+seasnail	>	periwinkle
+seasnail	>	triton
+seasnail	>	whelk
+gastropod	>	slug
+gastropod	>	snail
+snail	>	edible snail
+snail	>	garden snail
+garden snail	>	brown snail
+garden snail	>	helix hortensis
+snail	>	scorpion shell
+gastropod	>	solenogaster
+mollusk	>	scaphopod
+scaphopod	>	tooth shell
+invertebrate	>	peanut worm
+invertebrate	>	phoronid
+invertebrate	>	rotifer
+invertebrate	>	sponge
+sponge	>	glass sponge
+glass sponge	>	venus's flower basket
+invertebrate	>	symbion pandora
+invertebrate	>	woodborer
+invertebrate	>	worm
+worm	>	acanthocephalan
+worm	>	annelid
+annelid	>	archiannelid
+annelid	>	leech
+leech	>	horseleech
+leech	>	medicinal leech
+annelid	>	oligochaete
+oligochaete	>	earthworm
+annelid	>	polychaete
+polychaete	>	bloodworm
+polychaete	>	lugworm
+polychaete	>	sea mouse
+worm	>	arrowworm
+arrowworm	>	sagitta
+worm	>	beard worm
+worm	>	flatworm
+flatworm	>	fluke
+fluke	>	fasciolopsis buski
+fluke	>	liver fluke
+fluke	>	schistosome
+flatworm	>	planarian
+flatworm	>	tapeworm
+tapeworm	>	echinococcus
+tapeworm	>	taenia
+worm	>	helminth
+worm	>	nematode
+nematode	>	chicken roundworm
+nematode	>	common roundworm
+nematode	>	eelworm
+eelworm	>	vinegar eel
+nematode	>	filaria
+nematode	>	guinea worm
+nematode	>	hookworm
+nematode	>	pinworm
+nematode	>	trichina
+nematode	>	wheatworm
+worm	>	ribbon worm
+worm	>	woodworm
+invertebrate	>	zoophyte
+animal	>	larva
+larva	>	aphid lion
+larva	>	ascidian tadpole
+larva	>	bladder worm
+larva	>	bot
+larva	>	caseworm
+caseworm	>	caddisworm
+larva	>	caterpillar
+caterpillar	>	armyworm
+caterpillar	>	beet armyworm
+caterpillar	>	bollworm
+bollworm	>	corn earworm
+bollworm	>	pink bollworm
+caterpillar	>	cabbageworm
+caterpillar	>	cankerworm
+cankerworm	>	fall cankerworm
+cankerworm	>	spring cankerworm
+caterpillar	>	corn borer
+caterpillar	>	cutworm
+cutworm	>	army cutworm
+caterpillar	>	fall armyworm
+caterpillar	>	lappet caterpillar
+caterpillar	>	measuring worm
+caterpillar	>	potato tuberworm
+caterpillar	>	silkworm
+caterpillar	>	silkworm
+silkworm	>	ailanthus silkworm
+caterpillar	>	tent caterpillar
+tent caterpillar	>	forest tent caterpillar
+caterpillar	>	tobacco hornworm
+caterpillar	>	tomato hornworm
+caterpillar	>	tussock caterpillar
+caterpillar	>	webworm
+webworm	>	fall webworm
+webworm	>	garden webworm
+caterpillar	>	woolly bear
+woolly bear	>	woolly bear moth
+larva	>	cercaria
+larva	>	doodlebug
+larva	>	grub
+grub	>	leatherjacket
+grub	>	maggot
+larva	>	hellgrammiate
+larva	>	leptocephalus
+larva	>	mealworm
+larva	>	nymph
+larva	>	strawworm
+larva	>	tadpole
+larva	>	wiggler
+larva	>	wireworm
+animal	>	male
+male	>	bullock
+male	>	colt
+colt	>	ridgeling
+male	>	male horse
+male horse	>	gelding
+male horse	>	stallion
+stallion	>	stud
+male	>	sire
+animal	>	marine animal
+marine animal	>	by catch
+animal	>	mate
+animal	>	metazoan
+animal	>	migrator
+animal	>	molter
+animal	>	mutant
+animal	>	omnivore
+animal	>	peeper
+animal	>	pest
+pest	>	vermin
+animal	>	pet
+animal	>	pleurodont
+animal	>	poikilotherm
+animal	>	predator
+predator	>	carnivore
+animal	>	prey
+animal	>	racer
+racer	>	finisher
+racer	>	greyhound
+greyhound	>	italian greyhound
+greyhound	>	whippet
+racer	>	steeplechaser
+animal	>	range animal
+animal	>	scavenger
+scavenger	>	bottom feeder
+animal	>	stayer
+animal	>	stunt
+animal	>	survivor
+animal	>	thoroughbred
+animal	>	varmint
+animal	>	work animal
+work animal	>	beast of burden
+beast of burden	>	pack animal
+pack animal	>	packhorse
+work animal	>	draft animal
+animal	>	young
+young	>	hatchling
+young	>	orphan
+young	>	spat
+young	>	young bird
+young bird	>	chick
+young bird	>	cygnet
+young bird	>	eaglet
+young bird	>	fledgling
+young bird	>	nestling
+young	>	young fish
+young fish	>	brit
+young fish	>	parr
+young fish	>	parr
+young fish	>	whitebait
+young	>	young mammal
+young mammal	>	baby
+young mammal	>	bullock
+young mammal	>	calf
+calf	>	dogie
+calf	>	maverick
+young mammal	>	calf
+young mammal	>	cub
+cub	>	bear cub
+cub	>	lion cub
+cub	>	tiger cub
+young mammal	>	fawn
+young mammal	>	foal
+foal	>	colt
+colt	>	ridgeling
+foal	>	filly
+young mammal	>	heifer
+young mammal	>	kit
+young mammal	>	kitten
+young mammal	>	lamb
+lamb	>	baa lamb
+lamb	>	hog
+lamb	>	lambkin
+lamb	>	persian lamb
+lamb	>	teg
+young mammal	>	piglet
+piglet	>	sucking pig
+young mammal	>	pup
+pup	>	puppy
+young mammal	>	suckling
+young mammal	>	wolf pup
+animal	>	zooplankton

@@ -1,0 +1,549 @@
+acacia
+achillea
+aconite
+african violet
+agapanthus
+agave
+ailanthus
+air plant
+alder
+alfalfa
+alga
+allamanda
+alliaceous plant
+aloe
+alstroemeria
+althea
+alyssum
+amaranth
+amarylli
+anemone
+angelica
+angiospermous tree
+angiosperm
+annual
+anthurium
+apple
+apple tree
+apricot
+aquatic plant
+arborvitae
+arnica
+arrowroot
+artemisia
+artichoke
+arum
+ash
+asparagus
+aspen
+aster
+astilbe
+avocado
+azalea
+bamboo
+banana
+banksia
+barberry
+barley
+basil
+bean
+beech
+beetroot
+beet
+begonia
+belladonna
+bellwort
+biennial
+bilberry
+bindweed
+birch
+bitterroot
+bittersweet
+blackberry
+blackthorn
+bladderwort
+bloodroot
+blueberry
+bonsai
+borage
+bougainvillea
+bourtree
+box
+bracken
+bramble bush
+bramble
+breadfruit
+broccoli
+brome
+broom
+buckthorn
+buckwheat
+bulbous plant
+burdock
+buttercup
+butterfly bush
+butterwort
+cabbage
+cacao
+cactus
+caladium
+calamus
+calendula
+camass
+camellia
+cannabis
+canna
+cantaloupe
+capsicum
+caraway
+cardamom
+cardoon
+carnation
+carnivorous plant
+carrot
+cascara buckthorn
+cashew
+cassava
+casuarina
+catmint
+cat's tail
+cattail
+cauliflower
+cedar
+celery
+centaury
+cereal
+chamomile
+chard
+cherry
+chickpea
+chickweed
+chicory
+chive
+chollum
+chrysanthemum
+cineraria
+cinnamon
+citrus
+clemati
+climber
+cloudberry
+clover
+coconut
+coffee
+coleus
+collard
+columbine
+comfrey
+composite
+coneflower
+conifer
+cordgrass
+coreopsis
+coriander
+corn
+cosmos
+cotoneaster
+cotton
+cottonwood
+cowberry
+cowpea
+cowslip
+crab apple
+crabgrass
+cranberry
+cranesbill
+cress
+crocus
+crop
+croton
+crowberry
+crucifer
+cryptocoryne
+cucumber
+cumin
+currant
+custard apple
+cycad
+cyclamen
+cypress
+daffodil
+dahlia
+daisy
+dandelion
+daphne
+day lily
+delphinium
+desert plant
+diatom
+dicot
+dill
+dock
+dodder
+dogbane
+dog grass
+dogwood
+downy brome
+dracaena
+duckweed
+eelgrass
+eggplant
+elder
+elm
+erica
+erythroxylon coca
+eucalyptus
+evergreen
+fan palm
+fennel
+fenugreek
+fern ally
+fern
+fescue
+fig marigold
+fig
+fig tree
+fireweed
+fir
+flax
+fleawort
+florist's chrysanthemum
+flowering raspberry
+flower
+forget me not
+forsythia
+foxglove
+frangipani
+frogbit
+fruit tree
+fuchsia
+galax
+gardenia
+garlic
+gazanium
+gentian
+geranium
+ginger
+ginkgo
+ginseng
+gladiolus
+glasswort
+gloxinia
+goldenrod
+goldenseal
+gooseberry
+goosefoot
+gorse
+gourd
+grain
+gramineous plant
+grape
+grass
+greasewood
+grevillea
+groundnut
+guar
+guava
+gum tree
+gymnospermous tree
+gymnosperm
+hackberry
+hawthorn
+hazelnut
+hazel
+heather
+heath
+helianthemum
+hellebore
+hemlock
+henbane
+herb
+hibiscus
+hickory
+holly
+honeysuckle
+hornwort
+horseradish
+horsetail
+houseplant
+hoya
+huckleberry
+hyacinth
+hydrangea
+hydrillum
+ice plant
+indigo
+iridaceous plant
+iris
+ivy
+jack in the pulpit
+jasmine
+jimsonweed
+jonquil
+juneberry
+kale
+kenaf
+knapweed
+kudzus
+lamb's quarter
+lantana
+larkspur
+laurel
+lavender
+leek
+legume
+lemongrass
+lemon
+lentil
+lettuce
+liana
+licorice
+lilac
+liliaceous plant
+lily
+lily of the valley
+lime
+ling
+living thing
+lobelia
+locoweed
+lotus
+love grass
+lupine
+macadamia
+madder
+madderwort
+magnolia
+maguey
+mallow
+mandarin
+mandrake
+mango
+mangrove
+manzanita
+maple
+maranta
+marigold
+marijuana
+marrow
+marsh plant
+matchweed
+medic
+melon
+mescal
+mesquite
+microorganism
+milkweed
+millet
+mint
+mistflower
+monarda
+monkshood
+monstera
+morning glory
+mulberry
+mullein
+mustard
+myrtle
+narcissus
+nasturtium
+nectarine
+neem
+nettle
+nightshade
+nut tree
+oak
+oats
+okra
+oleander
+olive
+olive tree
+onion
+orange
+orchid
+oregano
+origanum
+ornamental
+ostrich fern
+oxali
+pachysandra
+palmetto
+palm
+panic grass
+pansy
+papaya
+papyrus
+parsley
+parsnip
+passionflower
+peach
+peanut
+pear
+pea
+pea tree
+pecan
+pennyroyal
+peony
+peperomia
+peppermint
+pepper
+perennial
+periwinkle
+petunia
+philodendron
+phlox
+phytoplankton
+pickerelweed
+pineapple
+pine
+pink
+pinon
+plane tree
+plantain
+plant
+plumbago
+poinsettia
+poisonous plant
+pokeweed
+polyanthus
+pomegranate
+pondweed
+poplar
+poppy
+potato
+pothose
+primrose
+privet
+protea
+protoctist
+pteridophyte
+pumpkin
+pyracantha
+quince
+rabbitweed
+radish plant
+radish
+ragwort
+ramp
+rape
+raspberry
+rattan
+redbud
+reed
+refinery
+retem
+rhododendron
+rhubarb
+rice
+rocket
+rockrose
+rosemary
+rose
+rue
+rush
+rye
+safflower
+sagebrush
+sage
+saguaro
+sainfoin
+salal
+saltbush
+saltwort
+sassafrass
+saxifrage
+sedge
+sedum
+seedling
+senna
+sesame
+shellflower
+shrub
+silver wattle
+sisal
+smoke tree
+snapdragon
+snowberry
+soapwort
+soie
+sorghum
+soursop
+spearmint
+spermatophyte
+spinach
+spurge
+squash
+stock
+stonecrop
+strawberry
+strawflower
+subshrub
+succulent
+sugar beet
+sugarcane
+sumac
+summer squash
+sundew
+sunflower
+sweet melon
+switch grass
+tamarisk
+tangerine
+taro
+teak
+tea
+teff
+thistle
+thorn apple
+thrift
+thyme
+ti
+tobacco
+tomato
+tree
+trillium
+true laurel
+true pepper
+tulip
+tumbleweed
+turmeric
+turnip plant
+turnip
+valerian
+vanilla
+vascular plant
+vegetable
+verbena
+vetch
+vine
+viola
+violet
+wallflower
+walnut
+water chestnut
+watercress
+water lily
+watermelon
+water shamrock
+water shield
+wattle
+weed
+wheatgrass
+wheat
+white hellebore
+wildflower
+wild hyacinth
+willowherb
+willow
+wintergreen
+wisteria
+woad
+wood anemone
+woody plant
+wormwood
+yam
+yarrow
+yew
+yucca
+zinnia
+zucchini

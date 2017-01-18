@@ -1,0 +1,119 @@
+4wd
+aeroplane
+aircraft
+airliner
+airplane
+airship
+ambulance
+apc
+automobile
+balloon
+barge
+bicycle
+bike
+blimp
+boat
+bomber
+buggy
+bulldozer
+bus
+cab
+camper
+caravan
+car
+carriage
+cart
+chariot
+chopper
+coach
+convertible
+coupe
+cycle
+dirigible
+dirt bike
+dozer
+dray
+dumper
+electric
+ferry
+fire engine
+fire truck
+forklift
+four wheeler
+glider
+go cart
+go kart
+golf cart
+half track
+handcart
+hearse
+helicopter
+houseboat
+hovercraft
+hovercraft
+humvee
+jeep
+jet
+kayak
+landrover
+limousine
+locomotive
+lorry
+minivan
+missile
+moped
+motorbike
+motorboat
+motorcar
+motorcycle
+motor home
+off roader
+pedicab
+pick up
+pickup
+plane
+powerboat
+rickshaw
+roadster
+rocket
+rv
+scooter
+scooter
+scrambler
+seaplane
+sedan
+semi
+ship
+skateboard
+sled
+snowmobile
+snowplow
+spacecraft
+sports utility
+steamboat
+streetcar
+stroller
+submarine
+suv
+tanker
+tank
+taxicab
+taxi
+tipper
+tractor
+tractor trailer
+trailer
+tram
+tricycle
+trolley
+truck
+tug boat
+tug
+van
+vessel
+vehicle
+wagon
+watercraft
+wheelbarrow
+wheeled vehicle
+yacht

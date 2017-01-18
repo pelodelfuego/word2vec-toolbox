@@ -1,0 +1,6 @@
+[submodule "thirdparty/convertvec"]
+	path = thirdparty/convertvec
+	url = https://github.com/marekrei/convertvec
+[submodule "thirdparty/word2vec"]
+	path = thirdparty/word2vec
+	url = https://github.com/dav/word2vec

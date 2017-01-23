@@ -3,16 +3,16 @@ word2vec-toolbox
 
 We provide here a __low level toolbox to manipulate word2vec__ vector space.
 
-The idea is to have a proper __environement to study how word2vec captures the semantic relations__ between words, the project __just aim to explore possibilities__.
+The idea is to propose an __environement to study how word2vec captures the semantic relations__ between words, the project __just aim to explore possibilities__.
 
 The project is organised in python package following this architecture:
 
-├── data: _contains the data (models, dataset, word2vec voc file)_
-├── notebook: _experiences and studies_
-│   ├── classification: _detail results for the classification proof of concept_
-│   └── dataExploration: _several studies about word2vec vector space_
-├── thirdparty: _external tools_
-└── toolbox: _the actual toolbox_
+├── data: _contains the data (models, dataset, word2vec voc file)_<br>
+├── notebook: _experiences and studies_<br>
+│   ├── classification: _detail results for the classification proof of concept_<br>
+│   └── dataExploration: _several studies about word2vec vector space_<br>
+├── thirdparty: _external tools_<br>
+└── toolbox: _the actual toolbox_<br>
 
 __Feel free to have a look at the guided tour__, it presents all the possibilities offered by the toolbox.
 
@@ -22,10 +22,10 @@ Overview
 -------------
 We can separate the project is 4 axes, each of them have a folder in the notebooks:
 
-* __Exploration of data__
-* __Domain__
-* __Antonyms__
-* __Taxonomy__
+* __[Exploration of data](https://github.com/pelodelfuego/word2vec-toolbox/tree/master/notebook/dataExploration)__
+* __[Domain](https://github.com/pelodelfuego/word2vec-toolbox/blob/master/notebook/classification/domain.ipynb)__
+* __[Antonyms](https://github.com/pelodelfuego/word2vec-toolbox/blob/master/notebook/classification/antonyms.ipynb)__
+* __[Taxonomy](https://github.com/pelodelfuego/word2vec-toolbox/blob/master/notebook/classification/taxonomy.ipynb)__
 
 
 Data
@@ -42,7 +42,9 @@ If you want to __use trained models__, be aware __all have been trained with the
 
 ### Corpus
 
-We used here the 2 corpus we worked here and trained the classifier with, both are __skip-gram__ and have respective parameters:
+We used here __2 corpus so 2 vector spaces.__
+
+Both are __skip-gram__ and have the following respective parameters:
 
 #### Text8
 * size: 200
@@ -88,10 +90,11 @@ Conclusion
 
 Credit
 ---------
-This project has been partialy achieved during my research semester in NTU research lab, there for, I would like to thanks:
+This project has been partialy achieved during my research semester in NTU NLP research lab,<br>
+therefore, I would like to thanks:
 
-* [Pr Kim Jung Jae](https://www.linkedin.com/in/jung-jae-kim-75143533)
-* [Luu Anh Tuan](https://www.linkedin.com/in/anh-tuan-luu-68592059)
-* [Maciej Baranski](https://www.linkedin.com/in/maciej-baranski-18b66672)
+* [Pr Kim Jung Jae](https://www.linkedin.com/in/jung-jae-kim-75143533) - my advisor
+* [Luu Anh Tuan](https://www.linkedin.com/in/anh-tuan-luu-68592059) - my collegue
+* [Maciej Baranski](https://www.linkedin.com/in/maciej-baranski-18b66672) - my flatmate =)
 
 for all the helpfull discussions we shared on this topic.

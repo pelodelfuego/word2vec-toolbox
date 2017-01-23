@@ -86,14 +86,37 @@ Beside this, as exposed in notebook, __a cartesian approach of the vector space 
 
 Important results
 -------------------------
+
 Here is some interesting __results we found__ and __word2vec model limitation we highlighted__:
 
 ### Polar coordinates
 
+By exploring the data, __we shifted from cartesian to polar vector space__, it turns out that we can separate the concept in 2 parts:
+
+* The semantic direction - angle
+* How far to go in this direction - norm
+
+This approach seems to provide good results to consider the taxonomic relations between concepts.
+__While the angle provide the nature of the concept, the norm specify how specialized or precise to fully describe it__
+
 ### Human expert
+
+Our classification tasks highlighted a problem: __due to the nature of data__ and the way it is learned,
+__the human expert is not always able to decide the quality of the prediction__.
+
+Indeed, __different human being would have different understanding of concept__ and therefore have __a different ground truth.__
+
+__Can a single Human decide__ by a yes/no answer if __unambitious as the opposite of intelligent__ is a false positive ? Even a group of Human with different background would be unlikely to agree.
+
+We also observed the __predicted results to challenge the edges of the ground truth__ in some cases.
 
 ### Several meaning
 
+One limitation of word2vec is also __one word used in different contexts__, for exemple __skate is both a fish and a vehicle__.
+
+Therefore, __the semantic position of a such concept would have a compromising position__, this may be resolved with enough dimensions.
+
+It raises the question of __words being just a single dot to describe a continuous semantic space__, also at a human level and the need to create new words (or abstracted ones) or study etymologies.
 
 Conclusion
 ---------------

@@ -81,7 +81,7 @@ Therefore, the main difference is a low resolution picture still understandable 
 
 We __suspect__ _'understandable human level'_ semantic __to be approximated by a linear combinaisons of lower resolution tied together__ (notebook to come).
 
-Beside this, as exposed in notebook, __a cartesian approach of the vector space may not be the best fit__ to understand how the dimensions are tied together.
+Beside this, as exposed in notebooks, __a cartesian approach of the vector space may not be the best fit__ to understand how the dimensions are tied together.
 
 
 Important results
@@ -106,7 +106,8 @@ __the human expert is not always able to decide the quality of the prediction__.
 
 Indeed, __different human being would have different understanding of concept__ and therefore have __a different ground truth.__
 
-__Can a single Human decide__ by a yes/no answer if __unambitious as the opposite of intelligent__ is a false positive ? Even a group of Human with different background would be unlikely to agree.
+__Can a single Human decide__ by a yes/no answer if __unambitious as the opposite of intelligent__ is a false positive ?<br>
+Even a group of Human with different background would be unlikely to agree.
 
 We also observed the __predicted results to challenge the edges of the ground truth__ in some cases.
 
@@ -120,6 +121,14 @@ It raises the question of __words being just a single dot to describe a continuo
 
 Conclusion
 ---------------
+
+One can affirme how versatile is word2vec as a tool is really impressive, we can run a lot of tasks based on what is captured.
+
+Thus, this vectorial space despite of its limitations open a whole new word on NLP and on how we can understand semantic and langages.
+
+Showing a different, discrete, but yet relevant description of the continus semantic field that constitute the world goes definitivly far beyond simple NLP tasks.
+
+Up to each of us to invent new applications... =)
 
 
 Credit
